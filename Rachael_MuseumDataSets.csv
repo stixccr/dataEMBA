@@ -1,4 +1,4 @@
-Program ,School_Name,Num.Students,Num.Adults,Num.Volunteers,Revenue($),Num.educators,wage_rate($),wage_hours,wage_costs($),profit
+Program ,School_Name,Num.Students,Num.Adults,Num.Volunteers,Revenue,Num.educators,wage_rate,wage_hours,wage_costs,profit
 Colonial Days +Marbles+Pumpkin Picking,Netherlands Reformed Christian School,36,10,1,624.00,3,16,4,192,432
 Historian's Apprentice,Upward Bound Kean Students,51,4,1,510.00,4,16,4,256,245
 Crown to Country,Dwight-Englewood School,25,2,0,150.00,2,16,1.5,48,102
