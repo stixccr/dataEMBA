@@ -1,57 +1,57 @@
-Program ,School_Name,Num.Students,Num.Adults,Num.Volunteers,Revenue,Num.educators,wage_rate,wage_hours,,
-Colonial Days +Marbles+Pumpkin Picking,Netherlands Reformed Christian School,36,10,1,$624.00 ,3,$16.00 ,4,$192.00 ,$432.00 
-Historian's Apprentice,Upward Bound Kean Students,51,4,1,$510.00 ,4,$16.00 ,4,$256.00 ,$254.00 
-Crown to Country,Dwight-Englewood School,25,2,0,$150 ,2,$16 ,1.5,$48 ,$102 
-Crown to Country,Dwight-Englewood School,25,2,0,$125.00 ,2,$16 ,1.5,$48 ,$77 
-Crown to Country,MacKay School,24,2,0,$150.00 ,2,$16 ,1.5,$48 ,$102 
-Crown to Country,MacKay School,24,2,0,$125.00 ,2,$16 ,1.5,$48 ,$77 
-Crown to Country,MacKay School,24,2,0,$125.00 ,2,$16 ,1.5,$48 ,$77 
-Road to Revolution,Unity Charter School,23,1,0,$150.00 ,2,$16 ,1.5,$48 ,$102 
-Crown to Country,Thomas Edison EnergySmart Charter School,25,2,0,$150.00 ,2,$16 ,1.5,$48 ,$102 
-Crown to Country,Thomas Edison EnergySmart Charter School,25,2,0,$125.00 ,2,$16 ,1.5,$48 ,$77 
-Crown to Country,All Saints Episcopal,15,2,0,$150.00 ,2,$16 ,1.5,$48 ,$102 
-"Crown to Country, Changing Childhood, Servants & Enslaved People",St. Cassian,20,1,0,$400 ,3,$16 ,1.5,$72 ,$328 
-"Historian's Apprentice, Road to Revolution",St. Cassian,29,1,0,$275 ,2,$16 ,1.5,$48 ,$227 
-Crown to Country,Far Hill Country Day School,22,2,0,$150 ,2,$16 ,1.5,$48 ,$102 
-Virtual Crown to Country,J. Spencer Smith Elementary,22,1,0,$150.00 ,2,$16 ,1.5,$48 ,$102 
-Virtual Crown to Country,J. Spencer Smith Elementary,25,1,0,$125.00 ,2,$16 ,1.5,$48 ,$77 
-Virtual Crown to Country,J. Spencer Smith Elementary,22,1,0,$125.00 ,2,$16 ,1.5,$48 ,$77 
-Windows to the Past: Susan Livingston,Far Hills Country Day School,22,2,0,$75.00 ,2,$16 ,1.5,$48 ,$27 
-Virtual Changing Childhood,Washington Open Elementary,20,2,0,$150.00 ,3,$16 ,1.5,$72 ,$78 
-Virtual Changing Childhood,Washington Open Elementary,20,2,0,$125.00 ,3,$16 ,1.5,$72 ,$53 
-Virtual Changing Childhood,Washington Open Elementary,20,2,0,$125.99 ,3,$16 ,1.5,$72 ,$54 
-Virtual Crown to Country,Glenwood School,25,2,0,$150.00 ,2,$16 ,1.5,$48 ,$102 
-Virtual Crown to Country,Glenwood School,25,1,0,$125.00 ,2,$16 ,1.5,$48 ,$77 
-Virtual Crown to Country,Field Trip Zoom Webinar,417,,0,$200.00 ,2,$16 ,1.5,$48 ,$152 
-Virtual Crown to Country,Glenwood School,25,1,0,$125.00 ,2,$16 ,1.5,$48 ,$77 
-Virtual Changing Childhood,Sandmeier School,22,1,0,$150.00 ,3,$16 ,1.5,$72 ,$78 
-Virtual Changing Childhood,Sandmeier School,22,1,0,$125.00 ,3,$16 ,1.5,$72 ,$53 
-Virtual Changing Childhood,Sandmeier School,22,1,0,$125.00 ,3,$16 ,1.5,$72 ,$53 
-Virtual Changing Childhood,Sandmeier School,22,2,0,$125.00 ,3,$16 ,1.5,$72 ,$53 
-Virtual Changing Childhood,Field Trip Zoom Webinar,619,0,1,$200.00 ,3,$16 ,1.5,$72 ,$128 
-Virtual Crown to Country,Bragg School,20,2,2,$150.00 ,1,$16 ,1.5,$24 ,$126 
-Virtual Crown to Country,Bragg School,20,2,2,$125.00 ,1,$16 ,1.5,$24 ,$101 
-Virtual Crown to Country,Bragg School,20,2,0,$125.00 ,2,$16 ,1.5,$48 ,$77 
-Virtual Crown to Country,Bragg School,20,2,0,$125.00 ,2,$16 ,1.5,$48 ,$77 
-Virtual Crown to Country,Bragg School,20,2,1,$125.00 ,2,$16 ,1.5,$48 ,$77 
-Virtual Crown to Country,Bragg School,20,2,1,$125.00 ,2,$16 ,1.5,$48 ,$77 
-Virtual Crown to Country,Tuscan Elementary School,20,1,1,$150.00 ,2,$16 ,1.5,$48 ,$102 
-Virtual Crown to Country,Tuscan Elementary School,20,1,1,$125.00 ,2,$16 ,1.5,$48 ,$77 
-Virtual Crown to Country,Tuscan Elementary School,20,1,1,$125.00 ,2,$16 ,1.5,$48 ,$77 
-Virtual Colonial Days,Academy of our Lady of Peace,14,1,1,$150.00 ,1,$16 ,1.5,$24 ,$126 
-Virtual Crown to Country,Chatham Day School,20,2,1,$150.00 ,1,$16 ,1.5,$24 ,$126 
-Virtual Crown to Country,RPRY,16,1,2,$150.00 ,2,$16 ,1.5,$48 ,$102 
-Virtual Crown to Country,RPRY,15,1,2,$125.00 ,2,$16 ,1.5,$48 ,$77 
-Virtual Crown to Country,Tuscan Elementary School,20,1,1,$125.00 ,2,$16 ,1.5,$48 ,$77 
-Virtual Crown to Country,Tuscan Elementary School,20,1,1,$125.00 ,2,$16 ,1.5,$48 ,$77 
-Virtual Colonial Days,CiTi BOCES,20,2,1,$150.00 ,2,$16 ,1.5,$48 ,$102 
-Virtual Colonial Days,CiTi BOCES,20,2,1,$150.00 ,2,$16 ,1.5,$48 ,$102 
-Virtual Colonial Days,Wyoming School,20,2,1,$150.00 ,2,$16 ,1.5,$48 ,$102 
-Virtual Colonial Days,Wyoming School,20,1,1,$125.00 ,2,$16 ,1.5,$48 ,$77 
-Virtual Colonial Days,Wyoming School,20,1,1,$125.00 ,2,$16 ,1.5,$48 ,$77 
-Virtual Crown to Country,Jennings Center for Older Adults,14,2,1,$150.00 ,1,$16 ,1.5,$24 ,$126 
-Virtual Crown to Country,Streamable Learning,30,0,0,$250.00 ,2,$16 ,1.5,$48 ,$202 
-Virtual Crown to Country,CILC Community of Learning,328,,0,$150.00 ,3,$16 ,1.5,$72 ,$78 
-Virtual Crown to Country,Field Trip Zoom,81,,0,$200.00 ,3,$16 ,1.5,$72 ,$128 
-Virtual Legends of Liberty Hall,Streamable Learning,30,,0,$250.00 ,2,$16 ,1.5,$48 ,$202 
-Virtual Changing Childhood,Academy of Our Lady of Peace,21,2,0,$150.00 ,3,$16 ,1.5,$72 ,$78 
+Program ,School_Name,Num.Students,Num.Adults,Num.Volunteers,Revenue($),Num.educators,wage_rate($),wage_hours,wage_costs($),profit
+Colonial Days +Marbles+Pumpkin Picking,Netherlands Reformed Christian School,36,10,1,624.00,3,16,4,192,432
+Historian's Apprentice,Upward Bound Kean Students,51,4,1,510.00,4,16,4,256,245
+Crown to Country,Dwight-Englewood School,25,2,0,150.00,2,16,1.5,48,102
+Crown to Country,Dwight-Englewood School,25,2,0,125.00,2,16,1.5,48,77
+Crown to Country,MacKay School,24,2,0,150.00,2,16,1.5,48,102
+Crown to Country,MacKay School,24,2,0,125.00,2,16,1.5,48,77
+Crown to Country,MacKay School,24,2,0,125.00,2,16,1.5,48,77
+Road to Revolution,Unity Charter School,23,1,0,150.00,2,16,1.5,48,102
+Crown to Country,Thomas Edison EnergySmart Charter School,25,2,0,150.00,2,16,1.5,48,102
+Crown to Country,Thomas Edison EnergySmart Charter School,25,2,0,125.00,2,16,1.5,48,77
+Crown to Country,All Saints Episcopal,15,2,0,150.00,2,16,1.5,48,102
+"Crown to Country, Changing Childhood, Servants & Enslaved People",St. Cassian,20,1,0,400.00,3,16,1.5,72,328
+"Historian's Apprentice, Road to Revolution",St. Cassian,29,1,0,275.00,2,16,1.5,48,227
+Crown to Country,Far Hill Country Day School,22,2,0,150.00,2,16,1.5,48,102
+Virtual Crown to Country,J. Spencer Smith Elementary,22,1,0,150.00,2,16,1.5,48,102
+Virtual Crown to Country,J. Spencer Smith Elementary,25,1,0,125.00,2,16,1.5,48,77
+Virtual Crown to Country,J. Spencer Smith Elementary,22,1,0,125.00,2,16,1.5,48,77
+Windows to the Past: Susan Livingston,Far Hills Country Day School,22,2,0,75.00,2,16,1.5,48,27
+Virtual Changing Childhood,Washington Open Elementary,20,2,0,150.00,3,16,1.5,72,78
+Virtual Changing Childhood,Washington Open Elementary,20,2,0,125.00,3,16,1.5,72,53
+Virtual Changing Childhood,Washington Open Elementary,20,2,0,125.99,3,16,1.5,72,53.99
+Virtual Crown to Country,Glenwood School,25,2,0,150.00,2,16,1.5,48,102
+Virtual Crown to Country,Glenwood School,25,1,0,125.00,2,16,1.5,48,77
+Virtual Crown to Country,Field Trip Zoom Webinar,417,,0,200.00,2,16,1.5,48,152
+Virtual Crown to Country,Glenwood School,25,1,0,125.00,2,16,1.5,48,77
+Virtual Changing Childhood,Sandmeier School,22,1,0,150.00,3,16,1.5,72,78
+Virtual Changing Childhood,Sandmeier School,22,1,0,125.00,3,16,1.5,72,53
+Virtual Changing Childhood,Sandmeier School,22,1,0,125.00,3,16,1.5,72,53
+Virtual Changing Childhood,Sandmeier School,22,2,0,125.00,3,16,1.5,72,53
+Virtual Changing Childhood,Field Trip Zoom Webinar,619,0,1,200.00,3,16,1.5,72,128
+Virtual Crown to Country,Bragg School,20,2,2,150.00,1,16,1.5,24,126
+Virtual Crown to Country,Bragg School,20,2,2,125.00,1,16,1.5,24,101
+Virtual Crown to Country,Bragg School,20,2,0,125.00,2,16,1.5,48,77
+Virtual Crown to Country,Bragg School,20,2,0,125.00,2,16,1.5,48,77
+Virtual Crown to Country,Bragg School,20,2,1,125.00,2,16,1.5,48,77
+Virtual Crown to Country,Bragg School,20,2,1,125.00,2,16,1.5,48,77
+Virtual Crown to Country,Tuscan Elementary School,20,1,1,150.00,2,16,1.5,48,102
+Virtual Crown to Country,Tuscan Elementary School,20,1,1,125.00,2,16,1.5,48,77
+Virtual Crown to Country,Tuscan Elementary School,20,1,1,125.00,2,16,1.5,48,77
+Virtual Colonial Days,Academy of our Lady of Peace,14,1,1,150.00,1,16,1.5,24,126
+Virtual Crown to Country,Chatham Day School,20,2,1,150.00,1,16,1.5,24,126
+Virtual Crown to Country,RPRY,16,1,2,150.00,2,16,1.5,48,102
+Virtual Crown to Country,RPRY,15,1,2,125.00,2,16,1.5,48,77
+Virtual Crown to Country,Tuscan Elementary School,20,1,1,125.00,2,16,1.5,48,77
+Virtual Crown to Country,Tuscan Elementary School,20,1,1,125.00,2,16,1.5,48,77
+Virtual Colonial Days,CiTi BOCES,20,2,1,150.00,2,16,1.5,48,102
+Virtual Colonial Days,CiTi BOCES,20,2,1,150.00,2,16,1.5,48,102
+Virtual Colonial Days,Wyoming School,20,2,1,150.00,2,16,1.5,48,102
+Virtual Colonial Days,Wyoming School,20,1,1,125.00,2,16,1.5,48,77
+Virtual Colonial Days,Wyoming School,20,1,1,125.00,2,16,1.5,48,77
+Virtual Crown to Country,Jennings Center for Older Adults,14,2,1,150.00,1,16,1.5,24,126
+Virtual Crown to Country,Streamable Learning,30,0,0,250.00,2,16,1.5,48,202
+Virtual Crown to Country,CILC Community of Learning,328,,0,150.00,3,16,1.5,72,78
+Virtual Crown to Country,Field Trip Zoom,81,,0,200.00,3,16,1.5,72,128
+Virtual Legends of Liberty Hall,Streamable Learning,30,,0,250.00,2,16,1.5,48,202
+Virtual Changing Childhood,Academy of Our Lady of Peace,21,2,0,150.00,3,16,1.5,72,78
