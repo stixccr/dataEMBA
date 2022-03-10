@@ -1,1245 +1,429 @@
-location,date,daily_vaccinations,daily_vaccinations_per_100
-Gibraltar,1/10/2021,,
-Gibraltar,1/11/2021,1025,30424
-Gibraltar,1/12/2021,1040,30869
-Gibraltar,1/13/2021,986,29266
-Gibraltar,1/14/2021,959,28465
-Gibraltar,1/15/2021,943,27990
-Gibraltar,1/16/2021,904,26832
-Gibraltar,1/17/2021,775,23003
-Gibraltar,1/18/2021,713,21163
-Gibraltar,1/19/2021,645,19145
-Gibraltar,1/20/2021,520,15434
-Gibraltar,1/21/2021,527,15642
-Gibraltar,1/22/2021,535,15880
-Gibraltar,1/23/2021,566,16800
-Gibraltar,1/24/2021,642,19056
-Gibraltar,1/25/2021,586,17393
-Gibraltar,1/26/2021,579,17186
-Gibraltar,1/27/2021,656,19471
-Gibraltar,1/28/2021,626,18581
-Gibraltar,1/29/2021,570,16918
-Gibraltar,1/30/2021,437,12971
-Gibraltar,1/31/2021,421,12496
-Gibraltar,2/1/2021,537,15939
-Gibraltar,2/2/2021,617,18313
-Gibraltar,2/3/2021,653,19382
-Gibraltar,2/4/2021,694,20599
-Gibraltar,2/5/2021,773,22944
-Gibraltar,2/6/2021,887,26328
-Gibraltar,2/7/2021,827,24547
-Gibraltar,2/8/2021,821,24369
-Gibraltar,2/9/2021,804,23864
-Gibraltar,2/10/2021,832,24695
-Gibraltar,2/11/2021,845,25081
-Gibraltar,2/12/2021,846,25111
-Gibraltar,2/13/2021,888,26357
-Gibraltar,2/14/2021,981,29118
-Gibraltar,2/15/2021,905,26862
-Gibraltar,2/16/2021,859,25496
-Gibraltar,2/17/2021,813,24131
-Gibraltar,2/18/2021,811,24072
-Gibraltar,2/19/2021,734,21786
-Gibraltar,2/20/2021,578,17156
-Gibraltar,2/21/2021,642,19056
-Gibraltar,2/22/2021,750,22261
-Gibraltar,2/23/2021,810,24042
-Gibraltar,2/24/2021,812,24101
-Gibraltar,2/25/2021,832,24695
-Gibraltar,2/26/2021,937,27812
-Gibraltar,2/27/2021,1068,31700
-Gibraltar,2/28/2021,911,27040
-Gibraltar,3/1/2021,918,27248
-Gibraltar,3/2/2021,945,28049
-Gibraltar,3/3/2021,1040,30869
-Gibraltar,3/4/2021,960,28494
-Gibraltar,3/5/2021,951,28227
-Gibraltar,3/6/2021,986,29266
-Gibraltar,3/7/2021,986,29266
-Gibraltar,3/8/2021,883,26209
-Gibraltar,3/9/2021,796,23626
-Gibraltar,3/10/2021,606,17987
-Gibraltar,3/11/2021,596,17690
-Gibraltar,3/12/2021,513,15227
-Gibraltar,3/13/2021,346,10270
-Gibraltar,3/14/2021,500,14841
-Gibraltar,3/15/2021,579,17186
-Gibraltar,3/16/2021,633,18788
-Gibraltar,3/17/2021,727,21578
-Gibraltar,3/18/2021,811,24072
-Gibraltar,3/19/2021,885,26268
-Gibraltar,3/20/2021,1005,29830
-Gibraltar,3/21/2021,852,25289
-Gibraltar,3/22/2021,795,23597
-Gibraltar,3/23/2021,751,22291
-Gibraltar,3/24/2021,842,24992
-Gibraltar,3/25/2021,768,22795
-Gibraltar,3/26/2021,759,22528
-Gibraltar,3/27/2021,798,23686
-Gibraltar,3/28/2021,819,24309
-Gibraltar,3/29/2021,741,21994
-Gibraltar,3/30/2021,730,21668
-Gibraltar,3/31/2021,627,18610
-Gibraltar,4/1/2021,624,18521
-Gibraltar,4/2/2021,500,14841
-Gibraltar,4/3/2021,376,11160
-Gibraltar,4/4/2021,389,11546
-Gibraltar,4/5/2021,402,11932
-Gibraltar,4/6/2021,343,10181
-Gibraltar,4/7/2021,297,8815
-Gibraltar,4/8/2021,253,7509
-Gibraltar,4/9/2021,267,7925
-Gibraltar,4/10/2021,327,9706
-Gibraltar,4/11/2021,385,11427
-Gibraltar,4/12/2021,438,13001
-Gibraltar,4/13/2021,587,17423
-Gibraltar,4/14/2021,554,16444
-Gibraltar,4/15/2021,508,15078
-Gibraltar,4/16/2021,482,14306
-Gibraltar,4/17/2021,412,12229
-Gibraltar,4/18/2021,342,10151
-Gibraltar,4/19/2021,286,8489
-Gibraltar,4/20/2021,134,3977
-Gibraltar,4/21/2021,164,4868
-Gibraltar,4/22/2021,249,7391
-Gibraltar,4/23/2021,254,7539
-Gibraltar,4/24/2021,259,7688
-Gibraltar,4/25/2021,264,7836
-Gibraltar,4/26/2021,260,7717
-Gibraltar,4/27/2021,341,10121
-Gibraltar,4/28/2021,367,10893
-Gibraltar,4/29/2021,337,10003
-Gibraltar,4/30/2021,421,12496
-Gibraltar,5/1/2021,421,12496
-Gibraltar,5/2/2021,421,12496
-Gibraltar,5/3/2021,421,12496
-Gibraltar,5/4/2021,337,10003
-Gibraltar,5/5/2021,392,11635
-Gibraltar,5/6/2021,449,13327
-Gibraltar,5/7/2021,449,13327
-Gibraltar,5/8/2021,426,12644
-Gibraltar,5/9/2021,403,11962
-Gibraltar,5/10/2021,380,11279
-Gibraltar,5/11/2021,357,10596
-Gibraltar,5/12/2021,250,7420
-Gibraltar,5/13/2021,141,4185
-Gibraltar,5/14/2021,50,1484
-Gibraltar,5/15/2021,66,1959
-Gibraltar,5/16/2021,81,2404
-Gibraltar,5/17/2021,97,2879
-Gibraltar,5/18/2021,113,3354
-Gibraltar,5/19/2021,219,6500
-Gibraltar,5/20/2021,225,6678
-Gibraltar,5/21/2021,215,6382
-Gibraltar,5/22/2021,206,6114
-Gibraltar,5/23/2021,200,5936
-Gibraltar,5/24/2021,194,5758
-Gibraltar,5/25/2021,189,5610
-Gibraltar,5/26/2021,92,2731
-Gibraltar,5/27/2021,96,2849
-Gibraltar,5/28/2021,160,4749
-Gibraltar,5/29/2021,190,5639
-Gibraltar,5/30/2021,182,5402
-Gibraltar,5/31/2021,174,5165
-Gibraltar,6/1/2021,166,4927
-Gibraltar,6/2/2021,159,4719
-Gibraltar,6/3/2021,145,4304
-Gibraltar,6/4/2021,71,2107
-Gibraltar,6/5/2021,31,920
-Gibraltar,6/6/2021,25,742
-Gibraltar,6/7/2021,18,534
-Gibraltar,6/8/2021,12,356
-Gibraltar,6/9/2021,8,237
-Gibraltar,6/10/2021,10,297
-Gibraltar,6/11/2021,12,356
-Gibraltar,6/12/2021,14,416
-Gibraltar,6/13/2021,15,445
-Gibraltar,6/14/2021,16,475
-Gibraltar,6/15/2021,18,534
-Gibraltar,6/16/2021,17,505
-Gibraltar,6/17/2021,17,505
-Gibraltar,6/18/2021,16,475
-Gibraltar,6/19/2021,15,445
-Gibraltar,6/20/2021,15,445
-Gibraltar,6/21/2021,15,445
-Gibraltar,6/22/2021,17,505
-Gibraltar,6/23/2021,18,534
-Gibraltar,6/24/2021,20,594
-Gibraltar,6/25/2021,19,564
-Gibraltar,6/26/2021,18,534
-Gibraltar,6/27/2021,17,505
-Gibraltar,6/28/2021,16,475
-Gibraltar,6/29/2021,13,386
-Gibraltar,6/30/2021,11,326
-Gibraltar,7/1/2021,9,267
-Gibraltar,7/2/2021,10,297
-Gibraltar,7/3/2021,10,297
-Gibraltar,7/4/2021,10,297
-Gibraltar,7/5/2021,11,326
-Gibraltar,7/6/2021,11,326
-Gibraltar,7/7/2021,10,297
-Gibraltar,7/8/2021,10,297
-Gibraltar,7/9/2021,10,297
-Gibraltar,7/10/2021,10,297
-Gibraltar,7/11/2021,10,297
-Gibraltar,7/12/2021,10,297
-Gibraltar,7/13/2021,10,297
-Gibraltar,7/14/2021,15,445
-Gibraltar,7/15/2021,22,653
-Gibraltar,7/16/2021,22,653
-Gibraltar,7/17/2021,21,623
-Gibraltar,7/18/2021,21,623
-Gibraltar,7/19/2021,21,623
-Gibraltar,7/20/2021,20,594
-Gibraltar,7/21/2021,14,416
-Gibraltar,7/22/2021,7,208
-Gibraltar,7/23/2021,8,237
-Gibraltar,7/24/2021,7,208
-Gibraltar,7/25/2021,6,178
-Gibraltar,7/26/2021,6,178
-Gibraltar,7/27/2021,6,178
-Gibraltar,7/28/2021,7,208
-Gibraltar,7/29/2021,7,208
-Gibraltar,7/30/2021,9,267
-Gibraltar,7/31/2021,9,267
-Gibraltar,8/1/2021,9,267
-Gibraltar,8/2/2021,10,297
-Gibraltar,8/3/2021,9,267
-Gibraltar,8/4/2021,8,237
-Gibraltar,8/5/2021,7,208
-Gibraltar,8/6/2021,6,178
-Gibraltar,8/7/2021,7,208
-Gibraltar,8/8/2021,6,178
-Gibraltar,8/9/2021,6,178
-Gibraltar,8/10/2021,5,148
-Gibraltar,8/11/2021,6,178
-Gibraltar,8/12/2021,6,178
-Gibraltar,8/13/2021,5,148
-Gibraltar,8/14/2021,4,119
-Gibraltar,8/15/2021,5,148
-Gibraltar,8/16/2021,7,208
-Gibraltar,8/17/2021,8,237
-Gibraltar,8/18/2021,9,267
-Gibraltar,8/19/2021,11,326
-Gibraltar,8/20/2021,19,564
-Gibraltar,8/21/2021,21,623
-Gibraltar,8/22/2021,21,623
-Gibraltar,8/23/2021,21,623
-Gibraltar,8/24/2021,21,623
-Gibraltar,8/25/2021,23,683
-Gibraltar,8/26/2021,24,712
-Gibraltar,8/27/2021,21,623
-Gibraltar,8/28/2021,24,712
-Gibraltar,8/29/2021,24,712
-Gibraltar,8/30/2021,23,683
-Gibraltar,8/31/2021,23,683
-Gibraltar,9/1/2021,20,594
-Gibraltar,9/2/2021,21,623
-Gibraltar,9/3/2021,21,623
-Gibraltar,9/4/2021,17,505
-Gibraltar,9/5/2021,18,534
-Gibraltar,9/6/2021,19,564
-Gibraltar,9/7/2021,19,564
-Gibraltar,9/8/2021,20,594
-Gibraltar,9/9/2021,21,623
-Gibraltar,9/10/2021,19,564
-Gibraltar,9/11/2021,20,594
-Gibraltar,9/12/2021,21,623
-Gibraltar,9/13/2021,22,653
-Gibraltar,9/14/2021,22,653
-Gibraltar,9/15/2021,23,683
-Gibraltar,9/16/2021,23,683
-Gibraltar,9/17/2021,25,742
-Gibraltar,9/18/2021,27,801
-Gibraltar,9/19/2021,26,772
-Gibraltar,9/20/2021,24,712
-Gibraltar,9/21/2021,23,683
-Gibraltar,9/22/2021,27,801
-Gibraltar,9/23/2021,27,801
-Gibraltar,9/24/2021,29,861
-Gibraltar,9/25/2021,28,831
-Gibraltar,9/26/2021,28,831
-Gibraltar,9/27/2021,28,831
-Gibraltar,9/28/2021,27,801
-Gibraltar,9/29/2021,24,712
-Gibraltar,9/30/2021,21,623
-Gibraltar,10/1/2021,16,475
-Gibraltar,10/2/2021,13,386
-Gibraltar,10/3/2021,12,356
-Gibraltar,10/4/2021,11,326
-Gibraltar,10/5/2021,10,297
-Gibraltar,10/6/2021,15,445
-Gibraltar,10/7/2021,28,831
-Gibraltar,10/8/2021,46,1365
-Gibraltar,10/9/2021,48,1425
-Gibraltar,10/10/2021,48,1425
-Gibraltar,10/11/2021,47,1395
-Gibraltar,10/12/2021,142,4215
-Gibraltar,10/13/2021,204,6055
-Gibraltar,10/14/2021,249,7391
-Gibraltar,10/15/2021,294,8726
-Gibraltar,10/16/2021,368,10923
-Gibraltar,10/17/2021,445,13208
-Gibraltar,10/18/2021,504,14959
-Gibraltar,10/19/2021,462,13713
-Gibraltar,10/20/2021,485,14396
-Gibraltar,10/21/2021,507,15049
-Gibraltar,10/22/2021,516,15316
-Gibraltar,10/23/2021,495,14692
-Gibraltar,10/24/2021,523,15523
-Gibraltar,10/25/2021,559,16592
-Gibraltar,10/26/2021,548,16265
-Gibraltar,10/27/2021,507,15049
-Gibraltar,10/28/2021,477,14158
-Gibraltar,10/29/2021,454,13475
-Gibraltar,10/30/2021,443,13149
-Gibraltar,10/31/2021,386,11457
-Gibraltar,11/1/2021,337,10003
-Gibraltar,11/2/2021,342,10151
-Gibraltar,11/3/2021,338,10032
-Gibraltar,11/4/2021,332,9854
-Gibraltar,11/5/2021,328,9736
-Gibraltar,11/6/2021,329,9765
-Gibraltar,11/7/2021,311,9231
-Gibraltar,11/8/2021,293,8697
-Gibraltar,11/9/2021,276,8192
-Gibraltar,11/10/2021,267,7925
-Gibraltar,11/11/2021,220,6530
-Gibraltar,11/12/2021,243,7213
-Gibraltar,11/13/2021,236,7005
-Gibraltar,11/14/2021,349,10359
-Gibraltar,11/15/2021,320,9498
-Gibraltar,11/16/2021,354,10507
-Gibraltar,11/17/2021,383,11368
-Gibraltar,11/18/2021,450,13357
-Gibraltar,11/19/2021,426,12644
-Gibraltar,11/20/2021,429,12733
-Gibraltar,11/21/2021,286,8489
-Gibraltar,11/22/2021,312,9261
-Gibraltar,11/23/2021,275,8162
-Gibraltar,11/24/2021,265,7866
-Gibraltar,11/25/2021,255,7569
-Gibraltar,11/26/2021,265,7866
-Gibraltar,11/27/2021,226,6708
-Gibraltar,11/28/2021,246,7302
-Gibraltar,11/29/2021,241,7153
-Gibraltar,11/30/2021,235,6975
-Gibraltar,12/1/2021,233,6916
-Gibraltar,12/2/2021,262,7777
-Gibraltar,12/3/2021,308,9142
-Gibraltar,12/4/2021,399,11843
-Gibraltar,12/5/2021,420,12466
-Gibraltar,12/6/2021,440,13060
-Gibraltar,12/7/2021,460,13653
-Gibraltar,12/8/2021,534,15850
-Gibraltar,12/9/2021,533,15820
-Gibraltar,12/10/2021,515,15286
-Gibraltar,12/11/2021,489,14514
-Gibraltar,12/12/2021,488,14485
-Gibraltar,12/13/2021,487,14455
-Gibraltar,12/14/2021,486,14425
-Gibraltar,12/15/2021,479,14217
-Gibraltar,12/16/2021,495,14692
-Gibraltar,12/17/2021,484,14366
-Gibraltar,12/18/2021,494,14663
-Gibraltar,12/19/2021,485,14396
-Gibraltar,12/20/2021,476,14128
-Gibraltar,12/21/2021,468,13891
-Gibraltar,12/22/2021,377,11190
-Gibraltar,12/23/2021,300,8904
-Gibraltar,12/24/2021,228,6767
-Gibraltar,12/25/2021,155,4601
-Gibraltar,12/26/2021,126,3740
-Gibraltar,12/27/2021,97,2879
-Gibraltar,12/28/2021,68,2018
-Gibraltar,12/29/2021,39,1158
-Gibraltar,12/30/2021,17,505
-Gibraltar,12/31/2021,17,505
-Gibraltar,1/1/2022,17,505
-Gibraltar,1/2/2022,17,505
-Gibraltar,1/3/2022,17,505
-Gibraltar,1/4/2022,17,505
-Gibraltar,1/5/2022,17,505
-Gibraltar,1/6/2022,17,505
-Gibraltar,1/7/2022,17,505
-Gibraltar,1/8/2022,27,801
-Gibraltar,1/9/2022,36,1069
-Gibraltar,1/10/2022,46,1365
-Gibraltar,1/11/2022,55,1632
-Gibraltar,1/12/2022,81,2404
-Gibraltar,1/13/2022,102,3028
-Gibraltar,1/14/2022,124,3681
-Gibraltar,1/15/2022,135,4007
-Gibraltar,1/16/2022,134,3977
-Gibraltar,1/17/2022,132,3918
-Gibraltar,1/18/2022,131,3888
-Gibraltar,1/19/2022,126,3740
-Gibraltar,1/20/2022,127,3770
-Gibraltar,1/21/2022,107,3176
-Gibraltar,1/22/2022,118,3502
-Gibraltar,1/23/2022,119,3532
-Gibraltar,1/24/2022,121,3591
-Gibraltar,1/25/2022,122,3621
-Gibraltar,1/26/2022,110,3265
-Gibraltar,1/27/2022,98,2909
-Gibraltar,1/28/2022,114,3384
-Gibraltar,1/29/2022,95,2820
-Gibraltar,1/30/2022,89,2642
-Gibraltar,1/31/2022,83,2464
-Gibraltar,2/1/2022,77,2285
-Gibraltar,2/2/2022,80,2375
-Gibraltar,2/3/2022,81,2404
-Gibraltar,2/4/2022,72,2137
-Gibraltar,2/5/2022,68,2018
-Gibraltar,2/6/2022,75,2226
-Gibraltar,2/7/2022,82,2434
-Gibraltar,2/8/2022,88,2612
-Gibraltar,2/9/2022,87,2582
-Gibraltar,2/10/2022,88,2612
-Gibraltar,2/11/2022,92,2731
-Gibraltar,2/12/2022,83,2464
-Gibraltar,2/13/2022,74,2196
-Gibraltar,2/14/2022,65,1929
-Gibraltar,2/15/2022,57,1692
-Gibraltar,2/16/2022,74,2196
-Gibraltar,2/17/2022,66,1959
-Gibraltar,2/18/2022,61,1811
-Gibraltar,2/19/2022,65,1929
-Gibraltar,2/20/2022,69,2048
-Gibraltar,2/21/2022,73,2167
-Gibraltar,2/22/2022,76,2256
-Gibraltar,2/23/2022,53,1573
-Gibraltar,2/24/2022,61,1811
-Gibraltar,2/25/2022,58,1722
-Gibraltar,2/26/2022,53,1573
-Gibraltar,2/27/2022,49,1454
-Gibraltar,2/28/2022,51,1514
-Gibraltar,3/1/2022,53,1573
-Gibraltar,3/2/2022,51,1514
-Gibraltar,3/3/2022,43,1276
-Gibraltar,3/4/2022,40,1187
-Maldives,2/2/2021,,
-Maldives,2/3/2021,698,1284
-Maldives,2/4/2021,1162,2138
-Maldives,2/5/2021,1130,2079
-Maldives,2/6/2021,1494,2748
-Maldives,2/7/2021,1774,3263
-Maldives,2/8/2021,2009,3696
-Maldives,2/9/2021,2196,4040
-Maldives,2/10/2021,2655,4884
-Maldives,2/11/2021,3160,5813
-Maldives,2/12/2021,3300,6070
-Maldives,2/13/2021,3750,6898
-Maldives,2/14/2021,4120,7579
-Maldives,2/15/2021,4412,8116
-Maldives,2/16/2021,4828,8881
-Maldives,2/17/2021,5151,9475
-Maldives,2/18/2021,5532,10176
-Maldives,2/19/2021,5240,9639
-Maldives,2/20/2021,5272,9698
-Maldives,2/21/2021,5203,9571
-Maldives,2/22/2021,5192,9551
-Maldives,2/23/2021,5009,9214
-Maldives,2/24/2021,4950,9106
-Maldives,2/25/2021,4895,9004
-Maldives,2/26/2021,5053,9295
-Maldives,2/27/2021,5069,9325
-Maldives,2/28/2021,5200,9566
-Maldives,3/1/2021,5279,9711
-Maldives,3/2/2021,5508,10132
-Maldives,3/3/2021,5508,10132
-Maldives,3/4/2021,5545,10200
-Maldives,3/5/2021,5630,10356
-Maldives,3/6/2021,5754,10585
-Maldives,3/7/2021,5747,10572
-Maldives,3/8/2021,5814,10695
-Maldives,3/9/2021,6001,11039
-Maldives,3/10/2021,6576,12097
-Maldives,3/11/2021,7115,13088
-Maldives,3/12/2021,7087,13037
-Maldives,3/13/2021,7491,13780
-Maldives,3/14/2021,7782,14315
-Maldives,3/15/2021,7843,14427
-Maldives,3/16/2021,6973,12827
-Maldives,3/17/2021,5771,10616
-Maldives,3/18/2021,4381,8059
-Maldives,3/19/2021,4230,7781
-Maldives,3/20/2021,2920,5371
-Maldives,3/21/2021,1828,3363
-Maldives,3/22/2021,1151,2117
-Maldives,3/23/2021,1212,2229
-Maldives,3/24/2021,1304,2399
-Maldives,3/25/2021,1404,2583
-Maldives,3/26/2021,1379,2537
-Maldives,3/27/2021,1641,3019
-Maldives,3/28/2021,1895,3486
-Maldives,3/29/2021,1872,3444
-Maldives,3/30/2021,1816,3341
-Maldives,3/31/2021,1820,3348
-Maldives,4/1/2021,1907,3508
-Maldives,4/2/2021,1919,3530
-Maldives,4/3/2021,2191,4030
-Maldives,4/4/2021,2637,4851
-Maldives,4/5/2021,3288,6048
-Maldives,4/6/2021,4021,7397
-Maldives,4/7/2021,4734,8708
-Maldives,4/8/2021,5630,10356
-Maldives,4/9/2021,5971,10984
-Maldives,4/10/2021,5469,10060
-Maldives,4/11/2021,5823,10712
-Maldives,4/12/2021,6020,11074
-Maldives,4/13/2021,5366,9871
-Maldives,4/14/2021,4700,8646
-Maldives,4/15/2021,4552,8373
-Maldives,4/16/2021,4348,7998
-Maldives,4/17/2021,5111,9402
-Maldives,4/18/2021,5182,9532
-Maldives,4/19/2021,5185,9538
-Maldives,4/20/2021,5856,10772
-Maldives,4/21/2021,6572,12089
-Maldives,4/22/2021,6665,12260
-Maldives,4/23/2021,6805,12518
-Maldives,4/24/2021,6945,12775
-Maldives,4/25/2021,6796,12501
-Maldives,4/26/2021,6679,12286
-Maldives,4/27/2021,6357,11694
-Maldives,4/28/2021,6119,11256
-Maldives,4/29/2021,5596,10294
-Maldives,4/30/2021,5388,9911
-Maldives,5/1/2021,4486,8252
-Maldives,5/2/2021,4413,8118
-Maldives,5/3/2021,4365,8030
-Maldives,5/4/2021,4578,8421
-Maldives,5/5/2021,4454,8193
-Maldives,5/6/2021,4193,7713
-Maldives,5/7/2021,4303,7915
-Maldives,5/8/2021,4606,8473
-Maldives,5/9/2021,4158,7649
-Maldives,5/10/2021,3611,6643
-Maldives,5/11/2021,3152,5798
-Maldives,5/12/2021,2684,4937
-Maldives,5/13/2021,2278,4190
-Maldives,5/14/2021,2158,3970
-Maldives,5/15/2021,2014,3705
-Maldives,5/16/2021,1925,3541
-Maldives,5/17/2021,1956,3598
-Maldives,5/18/2021,1835,3376
-Maldives,5/19/2021,1911,3515
-Maldives,5/20/2021,2067,3802
-Maldives,5/21/2021,2202,4051
-Maldives,5/22/2021,2281,4196
-Maldives,5/23/2021,2257,4152
-Maldives,5/24/2021,2163,3979
-Maldives,5/25/2021,2222,4087
-Maldives,5/26/2021,2128,3914
-Maldives,5/27/2021,2150,3955
-Maldives,5/28/2021,1955,3596
-Maldives,5/29/2021,1825,3357
-Maldives,5/30/2021,1686,3101
-Maldives,5/31/2021,1597,2938
-Maldives,6/1/2021,1416,2605
-Maldives,6/2/2021,1443,2654
-Maldives,6/3/2021,1378,2535
-Maldives,6/4/2021,1370,2520
-Maldives,6/5/2021,1340,2465
-Maldives,6/6/2021,1303,2397
-Maldives,6/7/2021,1274,2344
-Maldives,6/8/2021,1273,2342
-Maldives,6/9/2021,1211,2228
-Maldives,6/10/2021,1152,2119
-Maldives,6/11/2021,1213,2231
-Maldives,6/12/2021,1119,2058
-Maldives,6/13/2021,1042,1917
-Maldives,6/14/2021,971,1786
-Maldives,6/15/2021,942,1733
-Maldives,6/16/2021,923,1698
-Maldives,6/17/2021,894,1645
-Maldives,6/18/2021,878,1615
-Maldives,6/19/2021,862,1586
-Maldives,6/20/2021,848,1560
-Maldives,6/21/2021,854,1571
-Maldives,6/22/2021,813,1496
-Maldives,6/23/2021,803,1477
-Maldives,6/24/2021,841,1547
-Maldives,6/25/2021,797,1466
-Maldives,6/26/2021,875,1610
-Maldives,6/27/2021,947,1742
-Maldives,6/28/2021,946,1740
-Maldives,6/29/2021,941,1731
-Maldives,6/30/2021,893,1643
-Maldives,7/1/2021,873,1606
-Maldives,7/2/2021,875,1610
-Maldives,7/3/2021,806,1483
-Maldives,7/4/2021,988,1817
-Maldives,7/5/2021,1586,2917
-Maldives,7/6/2021,2419,4450
-Maldives,7/7/2021,3311,6091
-Maldives,7/8/2021,4164,7660
-Maldives,7/9/2021,4303,7915
-Maldives,7/10/2021,5299,9748
-Maldives,7/11/2021,6024,11081
-Maldives,7/12/2021,6345,11672
-Maldives,7/13/2021,6078,11181
-Maldives,7/14/2021,5767,10609
-Maldives,7/15/2021,5419,9968
-Maldives,7/16/2021,5335,9814
-Maldives,7/17/2021,4653,8559
-Maldives,7/18/2021,3658,6729
-Maldives,7/19/2021,2700,4967
-Maldives,7/20/2021,2058,3786
-Maldives,7/21/2021,1426,2623
-Maldives,7/22/2021,856,1575
-Maldives,7/23/2021,799,1470
-Maldives,7/24/2021,434,798
-Maldives,7/25/2021,388,714
-Maldives,7/26/2021,341,627
-Maldives,7/27/2021,384,706
-Maldives,7/28/2021,484,890
-Maldives,7/29/2021,563,1036
-Maldives,7/30/2021,664,1221
-Maldives,7/31/2021,1230,2263
-Maldives,8/1/2021,1776,3267
-Maldives,8/2/2021,2425,4461
-Maldives,8/3/2021,3022,5559
-Maldives,8/4/2021,3324,6115
-Maldives,8/5/2021,3475,6392
-Maldives,8/6/2021,3626,6670
-Maldives,8/7/2021,3411,6275
-Maldives,8/8/2021,3209,5903
-Maldives,8/9/2021,2915,5362
-Maldives,8/10/2021,3844,7071
-Maldives,8/11/2021,3712,6828
-Maldives,8/12/2021,3804,6998
-Maldives,8/13/2021,3586,6597
-Maldives,8/14/2021,3444,6335
-Maldives,8/15/2021,3918,7207
-Maldives,8/16/2021,4325,7956
-Maldives,8/17/2021,3167,5826
-Maldives,8/18/2021,3327,6120
-Maldives,8/19/2021,3682,6773
-Maldives,8/20/2021,3730,6861
-Maldives,8/21/2021,4041,7434
-Maldives,8/22/2021,3908,7189
-Maldives,8/23/2021,3715,6834
-Maldives,8/24/2021,3703,6812
-Maldives,8/25/2021,3407,6267
-Maldives,8/26/2021,2919,5370
-Maldives,8/27/2021,2832,5210
-Maldives,8/28/2021,2425,4461
-Maldives,8/29/2021,1797,3306
-Maldives,8/30/2021,1301,2393
-Maldives,8/31/2021,1021,1878
-Maldives,9/1/2021,943,1735
-Maldives,9/2/2021,789,1451
-Maldives,9/3/2021,850,1564
-Maldives,9/4/2021,760,1398
-Maldives,9/5/2021,753,1385
-Maldives,9/6/2021,898,1652
-Maldives,9/7/2021,1135,2088
-Maldives,9/8/2021,1448,2664
-Maldives,9/9/2021,1960,3605
-Maldives,9/10/2021,2041,3754
-Maldives,9/11/2021,2619,4818
-Maldives,9/12/2021,2941,5410
-Maldives,9/13/2021,3022,5559
-Maldives,9/14/2021,3010,5537
-Maldives,9/15/2021,3018,5552
-Maldives,9/16/2021,2658,4889
-Maldives,9/17/2021,2521,4637
-Maldives,9/18/2021,2073,3813
-Maldives,9/19/2021,1746,3212
-Maldives,9/20/2021,1492,2745
-Maldives,9/21/2021,1285,2364
-Maldives,9/22/2021,992,1825
-Maldives,9/23/2021,868,1597
-Maldives,9/24/2021,842,1549
-Maldives,9/25/2021,756,1391
-Maldives,9/26/2021,776,1427
-Maldives,9/27/2021,796,1464
-Maldives,9/28/2021,702,1291
-Maldives,9/29/2021,665,1223
-Maldives,9/30/2021,722,1328
-Maldives,10/1/2021,805,1481
-Maldives,10/2/2021,794,1461
-Maldives,10/3/2021,790,1453
-Maldives,10/4/2021,824,1516
-Maldives,10/5/2021,863,1588
-Maldives,10/6/2021,928,1707
-Maldives,10/7/2021,828,1523
-Maldives,10/8/2021,809,1488
-Maldives,10/9/2021,834,1534
-Maldives,10/10/2021,846,1556
-Maldives,10/11/2021,841,1547
-Maldives,10/12/2021,879,1617
-Maldives,10/13/2021,846,1556
-Maldives,10/14/2021,966,1777
-Maldives,10/15/2021,919,1691
-Maldives,10/16/2021,828,1523
-Maldives,10/17/2021,768,1413
-Maldives,10/18/2021,709,1304
-Maldives,10/19/2021,624,1148
-Maldives,10/20/2021,580,1067
-Maldives,10/21/2021,481,885
-Maldives,10/22/2021,495,911
-Maldives,10/23/2021,509,936
-Maldives,10/24/2021,510,938
-Maldives,10/25/2021,509,936
-Maldives,10/26/2021,511,940
-Maldives,10/27/2021,542,997
-Maldives,10/28/2021,547,1006
-Maldives,10/29/2021,521,958
-Maldives,10/30/2021,495,911
-Maldives,10/31/2021,498,916
-Maldives,11/1/2021,484,890
-Maldives,11/2/2021,490,901
-Maldives,11/3/2021,407,749
-Maldives,11/4/2021,324,596
-Maldives,11/5/2021,327,602
-Maldives,11/6/2021,331,609
-Maldives,11/7/2021,296,544
-Maldives,11/8/2021,259,476
-Maldives,11/9/2021,235,432
-Maldives,11/10/2021,280,515
-Maldives,11/11/2021,269,495
-Maldives,11/12/2021,258,475
-Maldives,11/13/2021,248,456
-Maldives,11/14/2021,233,429
-Maldives,11/15/2021,242,445
-Maldives,11/16/2021,984,1810
-Maldives,11/17/2021,987,1816
-Maldives,11/18/2021,1079,1985
-Maldives,11/19/2021,1118,2057
-Maldives,11/20/2021,1157,2128
-Maldives,11/21/2021,1197,2202
-Maldives,11/22/2021,1272,2340
-Maldives,11/23/2021,598,1100
-Maldives,11/24/2021,640,1177
-Maldives,11/25/2021,649,1194
-Maldives,11/26/2021,643,1183
-Maldives,11/27/2021,637,1172
-Maldives,11/28/2021,737,1356
-Maldives,11/29/2021,799,1470
-Maldives,11/30/2021,842,1549
-Maldives,12/1/2021,844,1553
-Maldives,12/2/2021,949,1746
-Maldives,12/3/2021,1000,1840
-Maldives,12/4/2021,1050,1931
-Maldives,12/5/2021,988,1817
-Maldives,12/6/2021,930,1711
-Maldives,12/7/2021,894,1645
-Maldives,12/8/2021,926,1703
-Maldives,12/9/2021,855,1573
-Maldives,12/10/2021,801,1473
-Maldives,12/11/2021,748,1376
-Maldives,12/12/2021,773,1422
-Maldives,12/13/2021,757,1393
-Maldives,12/14/2021,708,1302
-Maldives,12/15/2021,656,1207
-Maldives,12/16/2021,599,1102
-Maldives,12/17/2021,571,1050
-Maldives,12/18/2021,543,999
-Maldives,12/19/2021,476,876
-Maldives,12/20/2021,437,804
-Maldives,12/21/2021,438,806
-Maldives,12/22/2021,433,797
-Maldives,12/23/2021,370,681
-Maldives,12/24/2021,383,705
-Maldives,12/25/2021,396,728
-Maldives,12/26/2021,376,692
-Maldives,12/27/2021,469,863
-Maldives,12/28/2021,476,876
-Maldives,12/29/2021,452,831
-Maldives,12/30/2021,449,826
-Maldives,12/31/2021,445,819
-Maldives,1/1/2022,442,813
-Maldives,1/2/2022,438,806
-Maldives,1/3/2022,329,605
-Maldives,1/4/2022,277,510
-Maldives,1/5/2022,254,467
-Maldives,1/6/2022,278,511
-Maldives,1/7/2022,270,497
-Maldives,1/8/2022,262,482
-Maldives,1/9/2022,291,535
-Maldives,1/10/2022,313,576
-Maldives,1/11/2022,362,666
-Maldives,1/12/2022,415,763
-Maldives,1/13/2022,535,984
-Maldives,1/14/2022,687,1264
-Maldives,1/15/2022,839,1543
-Maldives,1/16/2022,1162,2138
-Maldives,1/17/2022,1484,2730
-Maldives,1/18/2022,1803,3317
-Maldives,1/19/2022,2121,3902
-Maldives,1/20/2022,2234,4109
-Maldives,1/21/2022,2347,4317
-Maldives,1/22/2022,2460,4525
-Maldives,1/23/2022,2576,4739
-Maldives,1/24/2022,2650,4875
-Maldives,1/25/2022,2725,5013
-Maldives,1/26/2022,2825,5197
-Maldives,1/27/2022,2924,5379
-Maldives,1/28/2022,3023,5561
-Maldives,1/29/2022,3122,5743
-Maldives,1/30/2022,3016,5548
-Maldives,1/31/2022,3000,5519
-Maldives,2/1/2022,2885,5307
-Maldives,2/2/2022,2918,5368
-Maldives,2/3/2022,2802,5154
-Maldives,2/4/2022,2687,4943
-Maldives,2/5/2022,2571,4729
-Maldives,2/6/2022,2727,5016
-Maldives,2/7/2022,2818,5184
-Maldives,2/8/2022,2877,5292
-Maldives,2/9/2022,2777,5108
-Maldives,2/10/2022,2959,5443
-Maldives,2/11/2022,2880,5298
-Maldives,2/12/2022,2801,5152
-Maldives,2/13/2022,2541,4674
-Maldives,2/14/2022,2288,4209
-Maldives,2/15/2022,2140,3937
-Maldives,2/16/2022,1992,3664
-Maldives,2/17/2022,1842,3388
-Maldives,2/18/2022,1782,3278
-Maldives,2/19/2022,1721,3166
-Maldives,2/20/2022,1688,3105
-Maldives,2/21/2022,1654,3043
-Maldives,2/22/2022,1592,2929
-Maldives,2/23/2022,1486,2734
-Maldives,2/24/2022,1461,2688
-Maldives,2/25/2022,1507,2772
-Maldives,2/26/2022,1554,2859
-Maldives,2/27/2022,1561,2871
-Maldives,2/28/2022,1614,2969
-Maldives,3/1/2022,1583,2912
-Maldives,3/2/2022,1589,2923
-Maldives,3/3/2022,1461,2688
-Maldives,3/4/2022,1340,2465
-Maldives,3/5/2022,1219,2242
-United Arab Emirates,1/5/2021,,
-United Arab Emirates,1/6/2021,0,0
-United Arab Emirates,1/7/2021,30698,3073
-United Arab Emirates,1/8/2021,38418,3845
-United Arab Emirates,1/9/2021,48512,4856
-United Arab Emirates,1/10/2021,52053,5210
-United Arab Emirates,1/11/2021,56825,5688
-United Arab Emirates,1/12/2021,64193,6425
-United Arab Emirates,1/13/2021,81183,8126
-United Arab Emirates,1/14/2021,91448,9153
-United Arab Emirates,1/15/2021,103490,10358
-United Arab Emirates,1/16/2021,111082,11118
-United Arab Emirates,1/17/2021,113744,11385
-United Arab Emirates,1/18/2021,114896,11500
-United Arab Emirates,1/19/2021,112816,11292
-United Arab Emirates,1/20/2021,109510,10961
-United Arab Emirates,1/21/2021,102605,10270
-United Arab Emirates,1/22/2021,96155,9624
-United Arab Emirates,1/23/2021,89838,8992
-United Arab Emirates,1/24/2021,86429,8651
-United Arab Emirates,1/25/2021,85652,8573
-United Arab Emirates,1/26/2021,87473,8755
-United Arab Emirates,1/27/2021,86185,8626
-United Arab Emirates,1/28/2021,88939,8902
-United Arab Emirates,1/29/2021,95361,9545
-United Arab Emirates,1/30/2021,98196,9828
-United Arab Emirates,1/31/2021,120911,12102
-United Arab Emirates,2/1/2021,124242,12435
-United Arab Emirates,2/2/2021,126692,12681
-United Arab Emirates,2/3/2021,132449,13257
-United Arab Emirates,2/4/2021,140104,14023
-United Arab Emirates,2/5/2021,143080,14321
-United Arab Emirates,2/6/2021,155312,15545
-United Arab Emirates,2/7/2021,139958,14008
-United Arab Emirates,2/8/2021,138982,13911
-United Arab Emirates,2/9/2021,137518,13764
-United Arab Emirates,2/10/2021,141867,14199
-United Arab Emirates,2/11/2021,134691,13481
-United Arab Emirates,2/12/2021,127662,12778
-United Arab Emirates,2/13/2021,114845,11495
-United Arab Emirates,2/14/2021,105909,10600
-United Arab Emirates,2/15/2021,96169,9625
-United Arab Emirates,2/16/2021,95940,9603
-United Arab Emirates,2/17/2021,85678,8575
-United Arab Emirates,2/18/2021,83075,8315
-United Arab Emirates,2/19/2021,80719,8079
-United Arab Emirates,2/20/2021,78304,7837
-United Arab Emirates,2/21/2021,71302,7137
-United Arab Emirates,2/22/2021,67280,6734
-United Arab Emirates,2/23/2021,67077,6714
-United Arab Emirates,2/24/2021,68151,6821
-United Arab Emirates,2/25/2021,67472,6753
-United Arab Emirates,2/26/2021,66638,6670
-United Arab Emirates,2/27/2021,65957,6602
-United Arab Emirates,2/28/2021,66588,6665
-United Arab Emirates,3/1/2021,67232,6729
-United Arab Emirates,3/2/2021,60956,6101
-United Arab Emirates,3/3/2021,58124,5818
-United Arab Emirates,3/4/2021,51138,5118
-United Arab Emirates,3/5/2021,43145,4318
-United Arab Emirates,3/6/2021,35824,3586
-United Arab Emirates,3/7/2021,36078,3611
-United Arab Emirates,3/8/2021,37048,3708
-United Arab Emirates,3/9/2021,32894,3292
-United Arab Emirates,3/10/2021,28504,2853
-United Arab Emirates,3/11/2021,29049,2907
-United Arab Emirates,3/12/2021,32510,3254
-United Arab Emirates,3/13/2021,35838,3587
-United Arab Emirates,3/14/2021,38272,3831
-United Arab Emirates,3/15/2021,41590,4163
-United Arab Emirates,3/16/2021,49059,4910
-United Arab Emirates,3/17/2021,66073,6613
-United Arab Emirates,3/18/2021,81874,8195
-United Arab Emirates,3/19/2021,94466,9455
-United Arab Emirates,3/20/2021,94905,9499
-United Arab Emirates,3/21/2021,108265,10836
-United Arab Emirates,3/22/2021,113692,11379
-United Arab Emirates,3/23/2021,115608,11571
-United Arab Emirates,3/24/2021,110423,11052
-United Arab Emirates,3/25/2021,107130,10723
-United Arab Emirates,3/26/2021,96482,9657
-United Arab Emirates,3/27/2021,111232,11133
-United Arab Emirates,3/28/2021,111855,11195
-United Arab Emirates,3/29/2021,108445,10854
-United Arab Emirates,3/30/2021,106129,10622
-United Arab Emirates,3/31/2021,100734,10082
-United Arab Emirates,4/1/2021,94418,9450
-United Arab Emirates,4/2/2021,98838,9893
-United Arab Emirates,4/3/2021,85658,8573
-United Arab Emirates,4/4/2021,71033,7110
-United Arab Emirates,4/5/2021,66126,6619
-United Arab Emirates,4/6/2021,62674,6273
-United Arab Emirates,4/7/2021,56943,5699
-United Arab Emirates,4/8/2021,71181,7124
-United Arab Emirates,4/9/2021,61737,6179
-United Arab Emirates,4/10/2021,59389,5944
-United Arab Emirates,4/11/2021,60924,6098
-United Arab Emirates,4/12/2021,63029,6309
-United Arab Emirates,4/13/2021,71032,7110
-United Arab Emirates,4/14/2021,84056,8413
-United Arab Emirates,4/15/2021,71110,7117
-United Arab Emirates,4/16/2021,80877,8095
-United Arab Emirates,4/17/2021,89493,8957
-United Arab Emirates,4/18/2021,89251,8933
-United Arab Emirates,4/19/2021,91040,9112
-United Arab Emirates,4/20/2021,90125,9021
-United Arab Emirates,4/21/2021,86363,8644
-United Arab Emirates,4/22/2021,87700,8778
-United Arab Emirates,4/23/2021,100655,10074
-United Arab Emirates,4/24/2021,86228,8630
-United Arab Emirates,4/25/2021,83664,8374
-United Arab Emirates,4/26/2021,82693,8277
-United Arab Emirates,4/27/2021,78373,7844
-United Arab Emirates,4/28/2021,80893,8097
-United Arab Emirates,4/29/2021,78049,7812
-United Arab Emirates,4/30/2021,54929,5498
-United Arab Emirates,5/1/2021,57842,5789
-United Arab Emirates,5/2/2021,59835,5989
-United Arab Emirates,5/3/2021,58982,5903
-United Arab Emirates,5/4/2021,63278,6333
-United Arab Emirates,5/5/2021,52600,5265
-United Arab Emirates,5/6/2021,51383,5143
-United Arab Emirates,5/7/2021,67111,6717
-United Arab Emirates,5/8/2021,73848,7391
-United Arab Emirates,5/9/2021,73034,7310
-United Arab Emirates,5/10/2021,74203,7427
-United Arab Emirates,5/11/2021,70597,7066
-United Arab Emirates,5/12/2021,76072,7614
-United Arab Emirates,5/13/2021,73614,7368
-United Arab Emirates,5/14/2021,56733,5678
-United Arab Emirates,5/15/2021,45925,4597
-United Arab Emirates,5/16/2021,43548,4359
-United Arab Emirates,5/17/2021,43304,4334
-United Arab Emirates,5/18/2021,45818,4586
-United Arab Emirates,5/19/2021,48177,4822
-United Arab Emirates,5/20/2021,57070,5712
-United Arab Emirates,5/21/2021,84096,8417
-United Arab Emirates,5/22/2021,93105,9319
-United Arab Emirates,5/23/2021,102154,10225
-United Arab Emirates,5/24/2021,114460,11456
-United Arab Emirates,5/25/2021,117354,11746
-United Arab Emirates,5/26/2021,118254,11836
-United Arab Emirates,5/27/2021,109563,10966
-United Arab Emirates,5/28/2021,87382,8746
-United Arab Emirates,5/29/2021,93790,9387
-United Arab Emirates,5/30/2021,92225,9231
-United Arab Emirates,5/31/2021,82836,8291
-United Arab Emirates,6/1/2021,78881,7895
-United Arab Emirates,6/2/2021,76327,7640
-United Arab Emirates,6/3/2021,91192,9127
-United Arab Emirates,6/4/2021,87807,8789
-United Arab Emirates,6/5/2021,76769,7684
-United Arab Emirates,6/6/2021,72047,7211
-United Arab Emirates,6/7/2021,68107,6817
-United Arab Emirates,6/8/2021,65701,6576
-United Arab Emirates,6/9/2021,63097,6315
-United Arab Emirates,6/10/2021,51837,5188
-United Arab Emirates,6/11/2021,60536,6059
-United Arab Emirates,6/12/2021,70236,7030
-United Arab Emirates,6/13/2021,70382,7044
-United Arab Emirates,6/14/2021,71537,7160
-United Arab Emirates,6/15/2021,76688,7676
-United Arab Emirates,6/16/2021,80081,8015
-United Arab Emirates,6/17/2021,84545,8462
-United Arab Emirates,6/18/2021,87716,8779
-United Arab Emirates,6/19/2021,91893,9198
-United Arab Emirates,6/20/2021,100600,10069
-United Arab Emirates,6/21/2021,111917,11202
-United Arab Emirates,6/22/2021,102734,10283
-United Arab Emirates,6/23/2021,95308,9539
-United Arab Emirates,6/24/2021,93191,9327
-United Arab Emirates,6/25/2021,91656,9174
-United Arab Emirates,6/26/2021,87759,8784
-United Arab Emirates,6/27/2021,80160,8023
-United Arab Emirates,6/28/2021,68536,6860
-United Arab Emirates,6/29/2021,73584,7365
-United Arab Emirates,6/30/2021,89525,8960
-United Arab Emirates,7/1/2021,80137,8021
-United Arab Emirates,7/2/2021,69750,6981
-United Arab Emirates,7/3/2021,65859,6592
-United Arab Emirates,7/4/2021,65781,6584
-United Arab Emirates,7/5/2021,66201,6626
-United Arab Emirates,7/6/2021,64618,6468
-United Arab Emirates,7/7/2021,52296,5234
-United Arab Emirates,7/8/2021,57220,5727
-United Arab Emirates,7/9/2021,62432,6249
-United Arab Emirates,7/10/2021,58783,5884
-United Arab Emirates,7/11/2021,57131,5718
-United Arab Emirates,7/12/2021,56288,5634
-United Arab Emirates,7/13/2021,55929,5598
-United Arab Emirates,7/14/2021,55941,5599
-United Arab Emirates,7/15/2021,56953,5700
-United Arab Emirates,7/16/2021,56897,5695
-United Arab Emirates,7/17/2021,56457,5651
-United Arab Emirates,7/18/2021,60589,6064
-United Arab Emirates,7/19/2021,58070,5812
-United Arab Emirates,7/20/2021,57479,5753
-United Arab Emirates,7/21/2021,47865,4791
-United Arab Emirates,7/22/2021,38678,3871
-United Arab Emirates,7/23/2021,30272,3030
-United Arab Emirates,7/24/2021,24970,2499
-United Arab Emirates,7/25/2021,19668,1969
-United Arab Emirates,7/26/2021,21289,2131
-United Arab Emirates,7/27/2021,20376,2039
-United Arab Emirates,7/28/2021,27164,2719
-United Arab Emirates,7/29/2021,30213,3024
-United Arab Emirates,7/30/2021,37251,3728
-United Arab Emirates,7/31/2021,44288,4433
-United Arab Emirates,8/1/2021,45011,4505
-United Arab Emirates,8/2/2021,43979,4402
-United Arab Emirates,8/3/2021,42419,4246
-United Arab Emirates,8/4/2021,41499,4154
-United Arab Emirates,8/5/2021,44539,4458
-United Arab Emirates,8/6/2021,43054,4309
-United Arab Emirates,8/7/2021,43091,4313
-United Arab Emirates,8/8/2021,43144,4318
-United Arab Emirates,8/9/2021,43676,4371
-United Arab Emirates,8/10/2021,44726,4477
-United Arab Emirates,8/11/2021,44302,4434
-United Arab Emirates,8/12/2021,42826,4286
-United Arab Emirates,8/13/2021,39364,3940
-United Arab Emirates,8/14/2021,35327,3536
-United Arab Emirates,8/15/2021,37589,3762
-United Arab Emirates,8/16/2021,37244,3728
-United Arab Emirates,8/17/2021,36679,3671
-United Arab Emirates,8/18/2021,37267,3730
-United Arab Emirates,8/19/2021,39727,3976
-United Arab Emirates,8/20/2021,44197,4424
-United Arab Emirates,8/21/2021,48405,4845
-United Arab Emirates,8/22/2021,48354,4840
-United Arab Emirates,8/23/2021,49610,4965
-United Arab Emirates,8/24/2021,46086,4613
-United Arab Emirates,8/25/2021,48054,4810
-United Arab Emirates,8/26/2021,48950,4899
-United Arab Emirates,8/27/2021,45584,4562
-United Arab Emirates,8/28/2021,41530,4157
-United Arab Emirates,8/29/2021,49461,4951
-United Arab Emirates,8/30/2021,49919,4996
-United Arab Emirates,8/31/2021,54591,5464
-United Arab Emirates,9/1/2021,63729,6379
-United Arab Emirates,9/2/2021,57876,5793
-United Arab Emirates,9/3/2021,56800,5685
-United Arab Emirates,9/4/2021,59279,5933
-United Arab Emirates,9/5/2021,50488,5053
-United Arab Emirates,9/6/2021,49169,4921
-United Arab Emirates,9/7/2021,54746,5479
-United Arab Emirates,9/8/2021,48172,4821
-United Arab Emirates,9/9/2021,56620,5667
-United Arab Emirates,9/10/2021,65989,6605
-United Arab Emirates,9/11/2021,67403,6746
-United Arab Emirates,9/12/2021,75471,7554
-United Arab Emirates,9/13/2021,79801,7987
-United Arab Emirates,9/14/2021,75905,7597
-United Arab Emirates,9/15/2021,76768,7684
-United Arab Emirates,9/16/2021,76661,7673
-United Arab Emirates,9/17/2021,75566,7563
-United Arab Emirates,9/18/2021,78813,7888
-United Arab Emirates,9/19/2021,71904,7197
-United Arab Emirates,9/20/2021,69803,6987
-United Arab Emirates,9/21/2021,67959,6802
-United Arab Emirates,9/22/2021,69944,7001
-United Arab Emirates,9/23/2021,66608,6667
-United Arab Emirates,9/24/2021,63606,6366
-United Arab Emirates,9/25/2021,62082,6214
-United Arab Emirates,9/26/2021,59163,5922
-United Arab Emirates,9/27/2021,55176,5523
-United Arab Emirates,9/28/2021,59157,5921
-United Arab Emirates,9/29/2021,52096,5214
-United Arab Emirates,9/30/2021,48425,4847
-United Arab Emirates,10/1/2021,49448,4949
-United Arab Emirates,10/2/2021,44540,4458
-United Arab Emirates,10/3/2021,48076,4812
-United Arab Emirates,10/4/2021,50810,5086
-United Arab Emirates,10/5/2021,44272,4431
-United Arab Emirates,10/6/2021,43198,4324
-United Arab Emirates,10/7/2021,44620,4466
-United Arab Emirates,10/8/2021,41092,4113
-United Arab Emirates,10/9/2021,42126,4216
-United Arab Emirates,10/10/2021,40380,4042
-United Arab Emirates,10/11/2021,39326,3936
-United Arab Emirates,10/12/2021,36433,3647
-United Arab Emirates,10/13/2021,33203,3323
-United Arab Emirates,10/14/2021,31898,3193
-United Arab Emirates,10/15/2021,30087,3011
-United Arab Emirates,10/16/2021,29587,2961
-United Arab Emirates,10/17/2021,28201,2823
-United Arab Emirates,10/18/2021,28009,2803
-United Arab Emirates,10/19/2021,30366,3039
-United Arab Emirates,10/20/2021,31917,3195
-United Arab Emirates,10/21/2021,30122,3015
-United Arab Emirates,10/22/2021,30082,3011
-United Arab Emirates,10/23/2021,28676,2870
-United Arab Emirates,10/24/2021,28370,2840
-United Arab Emirates,10/25/2021,27988,2801
-United Arab Emirates,10/26/2021,28482,2851
-United Arab Emirates,10/27/2021,28229,2825
-United Arab Emirates,10/28/2021,30781,3081
-United Arab Emirates,10/29/2021,31567,3160
-United Arab Emirates,10/30/2021,30500,3053
-United Arab Emirates,10/31/2021,35658,3569
-United Arab Emirates,11/1/2021,35963,3600
-United Arab Emirates,11/2/2021,33392,3342
-United Arab Emirates,11/3/2021,35029,3506
-United Arab Emirates,11/4/2021,33473,3350
-United Arab Emirates,11/5/2021,31965,3199
-United Arab Emirates,11/6/2021,31833,3186
-United Arab Emirates,11/7/2021,28810,2884
-United Arab Emirates,11/8/2021,28674,2870
-United Arab Emirates,11/9/2021,29036,2906
-United Arab Emirates,11/10/2021,26448,2647
-United Arab Emirates,11/11/2021,26547,2657
-United Arab Emirates,11/12/2021,28896,2892
-United Arab Emirates,11/13/2021,28997,2902
-United Arab Emirates,11/14/2021,28328,2835
-United Arab Emirates,11/15/2021,28618,2864
-United Arab Emirates,11/16/2021,28475,2850
-United Arab Emirates,11/17/2021,27274,2730
-United Arab Emirates,11/18/2021,26638,2666
-United Arab Emirates,11/19/2021,23207,2323
-United Arab Emirates,11/20/2021,23662,2368
-United Arab Emirates,11/21/2021,22186,2221
-United Arab Emirates,11/22/2021,21132,2115
-United Arab Emirates,11/23/2021,22352,2237
-United Arab Emirates,11/24/2021,21191,2121
-United Arab Emirates,11/25/2021,19444,1946
-United Arab Emirates,11/26/2021,19572,1959
-United Arab Emirates,11/27/2021,17991,1801
-United Arab Emirates,11/28/2021,18534,1855
-United Arab Emirates,11/29/2021,17556,1757
-United Arab Emirates,11/30/2021,16130,1614
-United Arab Emirates,12/1/2021,18173,1819
-United Arab Emirates,12/2/2021,18427,1844
-United Arab Emirates,12/3/2021,17812,1783
-United Arab Emirates,12/4/2021,17744,1776
-United Arab Emirates,12/5/2021,17483,1750
-United Arab Emirates,12/6/2021,18321,1834
-United Arab Emirates,12/7/2021,20167,2018
-United Arab Emirates,12/8/2021,21608,2163
-United Arab Emirates,12/9/2021,24122,2414
-United Arab Emirates,12/10/2021,26671,2669
-United Arab Emirates,12/11/2021,29725,2975
-United Arab Emirates,12/12/2021,30670,3070
-United Arab Emirates,12/13/2021,31309,3134
-United Arab Emirates,12/14/2021,27743,2777
-United Arab Emirates,12/15/2021,25874,2590
-United Arab Emirates,12/16/2021,24270,2429
-United Arab Emirates,12/17/2021,22631,2265
-United Arab Emirates,12/18/2021,20487,2051
-United Arab Emirates,12/19/2021,20451,2047
-United Arab Emirates,12/20/2021,20722,2074
-United Arab Emirates,12/21/2021,21753,2177
-United Arab Emirates,12/22/2021,21753,2177
-United Arab Emirates,12/23/2021,21753,2177
-United Arab Emirates,12/24/2021,22862,2288
-United Arab Emirates,12/25/2021,23618,2364
-United Arab Emirates,12/26/2021,24373,2439
-United Arab Emirates,12/27/2021,25129,2515
-United Arab Emirates,12/28/2021,25885,2591
-United Arab Emirates,12/29/2021,26640,2666
-United Arab Emirates,12/30/2021,27396,2742
-United Arab Emirates,12/31/2021,27043,2707
-United Arab Emirates,1/1/2022,27043,2707
-United Arab Emirates,1/2/2022,27043,2707
-United Arab Emirates,1/3/2022,27043,2707
-United Arab Emirates,1/4/2022,25868,2589
-United Arab Emirates,1/5/2022,26274,2630
-United Arab Emirates,1/6/2022,27662,2769
-United Arab Emirates,1/7/2022,28709,2873
-United Arab Emirates,1/8/2022,29997,3002
-United Arab Emirates,1/9/2022,29297,2932
-United Arab Emirates,1/10/2022,28598,2862
-United Arab Emirates,1/11/2022,28564,2859
-United Arab Emirates,1/12/2022,29088,2911
-United Arab Emirates,1/13/2022,29969,3000
-United Arab Emirates,1/14/2022,26977,2700
-United Arab Emirates,1/15/2022,26473,2650
-United Arab Emirates,1/16/2022,27956,2798
-United Arab Emirates,1/17/2022,29438,2946
-United Arab Emirates,1/18/2022,29367,2939
-United Arab Emirates,1/19/2022,26734,2676
-United Arab Emirates,1/20/2022,29224,2925
-United Arab Emirates,1/21/2022,32934,3296
-United Arab Emirates,1/22/2022,33915,3395
-United Arab Emirates,1/23/2022,33951,3398
-United Arab Emirates,1/24/2022,33046,3308
-United Arab Emirates,1/25/2022,34282,3431
-United Arab Emirates,1/26/2022,37737,3777
-United Arab Emirates,1/27/2022,34823,3485
-United Arab Emirates,1/28/2022,33739,3377
-United Arab Emirates,1/29/2022,33281,3331
-United Arab Emirates,1/30/2022,30587,3061
-United Arab Emirates,1/31/2022,30729,3076
-United Arab Emirates,2/1/2022,30792,3082
-United Arab Emirates,2/2/2022,29060,2909
-United Arab Emirates,2/3/2022,27422,2745
-United Arab Emirates,2/4/2022,27479,2750
-United Arab Emirates,2/5/2022,26411,2643
-United Arab Emirates,2/6/2022,27597,2762
-United Arab Emirates,2/7/2022,25815,2584
-United Arab Emirates,2/8/2022,24840,2486
-United Arab Emirates,2/9/2022,24499,2452
-United Arab Emirates,2/10/2022,24079,2410
-United Arab Emirates,2/11/2022,23183,2320
-United Arab Emirates,2/12/2022,20264,2028
-United Arab Emirates,2/13/2022,22019,2204
-United Arab Emirates,2/14/2022,20769,2079
-United Arab Emirates,2/15/2022,21564,2158
-United Arab Emirates,2/16/2022,22330,2235
-United Arab Emirates,2/17/2022,21377,2140
-United Arab Emirates,2/18/2022,20752,2077
-United Arab Emirates,2/19/2022,22649,2267
-United Arab Emirates,2/20/2022,20337,2036
-United Arab Emirates,2/21/2022,21201,2122
-United Arab Emirates,2/22/2022,19931,1995
-United Arab Emirates,2/23/2022,18411,1843
-United Arab Emirates,2/24/2022,18766,1878
-United Arab Emirates,2/25/2022,18239,1826
-United Arab Emirates,2/26/2022,16656,1667
-United Arab Emirates,2/27/2022,16150,1616
-United Arab Emirates,2/28/2022,16412,1643
-United Arab Emirates,3/1/2022,17674,1769
-United Arab Emirates,3/2/2022,17554,1757
-United Arab Emirates,3/3/2022,15687,1570
-United Arab Emirates,3/4/2022,14316,1433
-United Arab Emirates,3/5/2022,15749,1576
-United Arab Emirates,3/6/2022,16683,1670
-United Arab Emirates,3/7/2022,16153,1617
-United Arab Emirates,3/8/2022,13905,1392
+location,date,daily_vaccinations,daily_vaccinations_per_100,,,,,,,,
+Gib,1/10/2021,,,Mal ,2/2/2021,,,UAE,1/5/2021,,
+Gib,1/11/2021,1025,30424,Mal ,2/3/2021,698,1284,UAE,1/6/2021,0,0
+Gib,1/12/2021,1040,30869,Mal ,2/4/2021,1162,2138,UAE,1/7/2021,30698,3073
+Gib,1/13/2021,986,29266,Mal ,2/5/2021,1130,2079,UAE,1/8/2021,38418,3845
+Gib,1/14/2021,959,28465,Mal ,2/6/2021,1494,2748,UAE,1/9/2021,48512,4856
+Gib,1/15/2021,943,27990,Mal ,2/7/2021,1774,3263,UAE,1/10/2021,52053,5210
+Gib,1/16/2021,904,26832,Mal ,2/8/2021,2009,3696,UAE,1/11/2021,56825,5688
+Gib,1/17/2021,775,23003,Mal ,2/9/2021,2196,4040,UAE,1/12/2021,64193,6425
+Gib,1/18/2021,713,21163,Mal ,2/10/2021,2655,4884,UAE,1/13/2021,81183,8126
+Gib,1/19/2021,645,19145,Mal ,2/11/2021,3160,5813,UAE,1/14/2021,91448,9153
+Gib,1/20/2021,520,15434,Mal ,2/12/2021,3300,6070,UAE,1/15/2021,103490,10358
+Gib,1/21/2021,527,15642,Mal ,2/13/2021,3750,6898,UAE,1/16/2021,111082,11118
+Gib,1/22/2021,535,15880,Mal ,2/14/2021,4120,7579,UAE,1/17/2021,113744,11385
+Gib,1/23/2021,566,16800,Mal ,2/15/2021,4412,8116,UAE,1/18/2021,114896,11500
+Gib,1/24/2021,642,19056,Mal ,2/16/2021,4828,8881,UAE,1/19/2021,112816,11292
+Gib,1/25/2021,586,17393,Mal ,2/17/2021,5151,9475,UAE,1/20/2021,109510,10961
+Gib,1/26/2021,579,17186,Mal ,2/18/2021,5532,10176,UAE,1/21/2021,102605,10270
+Gib,1/27/2021,656,19471,Mal ,2/19/2021,5240,9639,UAE,1/22/2021,96155,9624
+Gib,1/28/2021,626,18581,Mal ,2/20/2021,5272,9698,UAE,1/23/2021,89838,8992
+Gib,1/29/2021,570,16918,Mal ,2/21/2021,5203,9571,UAE,1/24/2021,86429,8651
+Gib,1/30/2021,437,12971,Mal ,2/22/2021,5192,9551,UAE,1/25/2021,85652,8573
+Gib,1/31/2021,421,12496,Mal ,2/23/2021,5009,9214,UAE,1/26/2021,87473,8755
+Gib,2/1/2021,537,15939,Mal ,2/24/2021,4950,9106,UAE,1/27/2021,86185,8626
+Gib,2/2/2021,617,18313,Mal ,2/25/2021,4895,9004,UAE,1/28/2021,88939,8902
+Gib,2/3/2021,653,19382,Mal ,2/26/2021,5053,9295,UAE,1/29/2021,95361,9545
+Gib,2/4/2021,694,20599,Mal ,2/27/2021,5069,9325,UAE,1/30/2021,98196,9828
+Gib,2/5/2021,773,22944,Mal ,2/28/2021,5200,9566,UAE,1/31/2021,120911,12102
+Gib,2/6/2021,887,26328,Mal ,3/1/2021,5279,9711,UAE,2/1/2021,124242,12435
+Gib,2/7/2021,827,24547,Mal ,3/2/2021,5508,10132,UAE,2/2/2021,126692,12681
+Gib,2/8/2021,821,24369,Mal ,3/3/2021,5508,10132,UAE,2/3/2021,132449,13257
+Gib,2/9/2021,804,23864,Mal ,3/4/2021,5545,10200,UAE,2/4/2021,140104,14023
+Gib,2/10/2021,832,24695,Mal ,3/5/2021,5630,10356,UAE,2/5/2021,143080,14321
+Gib,2/11/2021,845,25081,Mal ,3/6/2021,5754,10585,UAE,2/6/2021,155312,15545
+Gib,2/12/2021,846,25111,Mal ,3/7/2021,5747,10572,UAE,2/7/2021,139958,14008
+Gib,2/13/2021,888,26357,Mal ,3/8/2021,5814,10695,UAE,2/8/2021,138982,13911
+Gib,2/14/2021,981,29118,Mal ,3/9/2021,6001,11039,UAE,2/9/2021,137518,13764
+Gib,2/15/2021,905,26862,Mal ,3/10/2021,6576,12097,UAE,2/10/2021,141867,14199
+Gib,2/16/2021,859,25496,Mal ,3/11/2021,7115,13088,UAE,2/11/2021,134691,13481
+Gib,2/17/2021,813,24131,Mal ,3/12/2021,7087,13037,UAE,2/12/2021,127662,12778
+Gib,2/18/2021,811,24072,Mal ,3/13/2021,7491,13780,UAE,2/13/2021,114845,11495
+Gib,2/19/2021,734,21786,Mal ,3/14/2021,7782,14315,UAE,2/14/2021,105909,10600
+Gib,2/20/2021,578,17156,Mal ,3/15/2021,7843,14427,UAE,2/15/2021,96169,9625
+Gib,2/21/2021,642,19056,Mal ,3/16/2021,6973,12827,UAE,2/16/2021,95940,9603
+Gib,2/22/2021,750,22261,Mal ,3/17/2021,5771,10616,UAE,2/17/2021,85678,8575
+Gib,2/23/2021,810,24042,Mal ,3/18/2021,4381,8059,UAE,2/18/2021,83075,8315
+Gib,2/24/2021,812,24101,Mal ,3/19/2021,4230,7781,UAE,2/19/2021,80719,8079
+Gib,2/25/2021,832,24695,Mal ,3/20/2021,2920,5371,UAE,2/20/2021,78304,7837
+Gib,2/26/2021,937,27812,Mal ,3/21/2021,1828,3363,UAE,2/21/2021,71302,7137
+Gib,2/27/2021,1068,31700,Mal ,3/22/2021,1151,2117,UAE,2/22/2021,67280,6734
+Gib,2/28/2021,911,27040,Mal ,3/23/2021,1212,2229,UAE,2/23/2021,67077,6714
+Gib,3/1/2021,918,27248,Mal ,3/24/2021,1304,2399,UAE,2/24/2021,68151,6821
+Gib,3/2/2021,945,28049,Mal ,3/25/2021,1404,2583,UAE,2/25/2021,67472,6753
+Gib,3/3/2021,1040,30869,Mal ,3/26/2021,1379,2537,UAE,2/26/2021,66638,6670
+Gib,3/4/2021,960,28494,Mal ,3/27/2021,1641,3019,UAE,2/27/2021,65957,6602
+Gib,3/5/2021,951,28227,Mal ,3/28/2021,1895,3486,UAE,2/28/2021,66588,6665
+Gib,3/6/2021,986,29266,Mal ,3/29/2021,1872,3444,UAE,3/1/2021,67232,6729
+Gib,3/7/2021,986,29266,Mal ,3/30/2021,1816,3341,UAE,3/2/2021,60956,6101
+Gib,3/8/2021,883,26209,Mal ,3/31/2021,1820,3348,UAE,3/3/2021,58124,5818
+Gib,3/9/2021,796,23626,Mal ,4/1/2021,1907,3508,UAE,3/4/2021,51138,5118
+Gib,3/10/2021,606,17987,Mal ,4/2/2021,1919,3530,UAE,3/5/2021,43145,4318
+Gib,3/11/2021,596,17690,Mal ,4/3/2021,2191,4030,UAE,3/6/2021,35824,3586
+Gib,3/12/2021,513,15227,Mal ,4/4/2021,2637,4851,UAE,3/7/2021,36078,3611
+Gib,3/13/2021,346,10270,Mal ,4/5/2021,3288,6048,UAE,3/8/2021,37048,3708
+Gib,3/14/2021,500,14841,Mal ,4/6/2021,4021,7397,UAE,3/9/2021,32894,3292
+Gib,3/15/2021,579,17186,Mal ,4/7/2021,4734,8708,UAE,3/10/2021,28504,2853
+Gib,3/16/2021,633,18788,Mal ,4/8/2021,5630,10356,UAE,3/11/2021,29049,2907
+Gib,3/17/2021,727,21578,Mal ,4/9/2021,5971,10984,UAE,3/12/2021,32510,3254
+Gib,3/18/2021,811,24072,Mal ,4/10/2021,5469,10060,UAE,3/13/2021,35838,3587
+Gib,3/19/2021,885,26268,Mal ,4/11/2021,5823,10712,UAE,3/14/2021,38272,3831
+Gib,3/20/2021,1005,29830,Mal ,4/12/2021,6020,11074,UAE,3/15/2021,41590,4163
+Gib,3/21/2021,852,25289,Mal ,4/13/2021,5366,9871,UAE,3/16/2021,49059,4910
+Gib,3/22/2021,795,23597,Mal ,4/14/2021,4700,8646,UAE,3/17/2021,66073,6613
+Gib,3/23/2021,751,22291,Mal ,4/15/2021,4552,8373,UAE,3/18/2021,81874,8195
+Gib,3/24/2021,842,24992,Mal ,4/16/2021,4348,7998,UAE,3/19/2021,94466,9455
+Gib,3/25/2021,768,22795,Mal ,4/17/2021,5111,9402,UAE,3/20/2021,94905,9499
+Gib,3/26/2021,759,22528,Mal ,4/18/2021,5182,9532,UAE,3/21/2021,108265,10836
+Gib,3/27/2021,798,23686,Mal ,4/19/2021,5185,9538,UAE,3/22/2021,113692,11379
+Gib,3/28/2021,819,24309,Mal ,4/20/2021,5856,10772,UAE,3/23/2021,115608,11571
+Gib,3/29/2021,741,21994,Mal ,4/21/2021,6572,12089,UAE,3/24/2021,110423,11052
+Gib,3/30/2021,730,21668,Mal ,4/22/2021,6665,12260,UAE,3/25/2021,107130,10723
+Gib,3/31/2021,627,18610,Mal ,4/23/2021,6805,12518,UAE,3/26/2021,96482,9657
+Gib,4/1/2021,624,18521,Mal ,4/24/2021,6945,12775,UAE,3/27/2021,111232,11133
+Gib,4/2/2021,500,14841,Mal ,4/25/2021,6796,12501,UAE,3/28/2021,111855,11195
+Gib,4/3/2021,376,11160,Mal ,4/26/2021,6679,12286,UAE,3/29/2021,108445,10854
+Gib,4/4/2021,389,11546,Mal ,4/27/2021,6357,11694,UAE,3/30/2021,106129,10622
+Gib,4/5/2021,402,11932,Mal ,4/28/2021,6119,11256,UAE,3/31/2021,100734,10082
+Gib,4/6/2021,343,10181,Mal ,4/29/2021,5596,10294,UAE,4/1/2021,94418,9450
+Gib,4/7/2021,297,8815,Mal ,4/30/2021,5388,9911,UAE,4/2/2021,98838,9893
+Gib,4/8/2021,253,7509,Mal ,5/1/2021,4486,8252,UAE,4/3/2021,85658,8573
+Gib,4/9/2021,267,7925,Mal ,5/2/2021,4413,8118,UAE,4/4/2021,71033,7110
+Gib,4/10/2021,327,9706,Mal ,5/3/2021,4365,8030,UAE,4/5/2021,66126,6619
+Gib,4/11/2021,385,11427,Mal ,5/4/2021,4578,8421,UAE,4/6/2021,62674,6273
+Gib,4/12/2021,438,13001,Mal ,5/5/2021,4454,8193,UAE,4/7/2021,56943,5699
+Gib,4/13/2021,587,17423,Mal ,5/6/2021,4193,7713,UAE,4/8/2021,71181,7124
+Gib,4/14/2021,554,16444,Mal ,5/7/2021,4303,7915,UAE,4/9/2021,61737,6179
+Gib,4/15/2021,508,15078,Mal ,5/8/2021,4606,8473,UAE,4/10/2021,59389,5944
+Gib,4/16/2021,482,14306,Mal ,5/9/2021,4158,7649,UAE,4/11/2021,60924,6098
+Gib,4/17/2021,412,12229,Mal ,5/10/2021,3611,6643,UAE,4/12/2021,63029,6309
+Gib,4/18/2021,342,10151,Mal ,5/11/2021,3152,5798,UAE,4/13/2021,71032,7110
+Gib,4/19/2021,286,8489,Mal ,5/12/2021,2684,4937,UAE,4/14/2021,84056,8413
+Gib,4/20/2021,134,3977,Mal ,5/13/2021,2278,4190,UAE,4/15/2021,71110,7117
+Gib,4/21/2021,164,4868,Mal ,5/14/2021,2158,3970,UAE,4/16/2021,80877,8095
+Gib,4/22/2021,249,7391,Mal ,5/15/2021,2014,3705,UAE,4/17/2021,89493,8957
+Gib,4/23/2021,254,7539,Mal ,5/16/2021,1925,3541,UAE,4/18/2021,89251,8933
+Gib,4/24/2021,259,7688,Mal ,5/17/2021,1956,3598,UAE,4/19/2021,91040,9112
+Gib,4/25/2021,264,7836,Mal ,5/18/2021,1835,3376,UAE,4/20/2021,90125,9021
+Gib,4/26/2021,260,7717,Mal ,5/19/2021,1911,3515,UAE,4/21/2021,86363,8644
+Gib,4/27/2021,341,10121,Mal ,5/20/2021,2067,3802,UAE,4/22/2021,87700,8778
+Gib,4/28/2021,367,10893,Mal ,5/21/2021,2202,4051,UAE,4/23/2021,100655,10074
+Gib,4/29/2021,337,10003,Mal ,5/22/2021,2281,4196,UAE,4/24/2021,86228,8630
+Gib,4/30/2021,421,12496,Mal ,5/23/2021,2257,4152,UAE,4/25/2021,83664,8374
+Gib,5/1/2021,421,12496,Mal ,5/24/2021,2163,3979,UAE,4/26/2021,82693,8277
+Gib,5/2/2021,421,12496,Mal ,5/25/2021,2222,4087,UAE,4/27/2021,78373,7844
+Gib,5/3/2021,421,12496,Mal ,5/26/2021,2128,3914,UAE,4/28/2021,80893,8097
+Gib,5/4/2021,337,10003,Mal ,5/27/2021,2150,3955,UAE,4/29/2021,78049,7812
+Gib,5/5/2021,392,11635,Mal ,5/28/2021,1955,3596,UAE,4/30/2021,54929,5498
+Gib,5/6/2021,449,13327,Mal ,5/29/2021,1825,3357,UAE,5/1/2021,57842,5789
+Gib,5/7/2021,449,13327,Mal ,5/30/2021,1686,3101,UAE,5/2/2021,59835,5989
+Gib,5/8/2021,426,12644,Mal ,5/31/2021,1597,2938,UAE,5/3/2021,58982,5903
+Gib,5/9/2021,403,11962,Mal ,6/1/2021,1416,2605,UAE,5/4/2021,63278,6333
+Gib,5/10/2021,380,11279,Mal ,6/2/2021,1443,2654,UAE,5/5/2021,52600,5265
+Gib,5/11/2021,357,10596,Mal ,6/3/2021,1378,2535,UAE,5/6/2021,51383,5143
+Gib,5/12/2021,250,7420,Mal ,6/4/2021,1370,2520,UAE,5/7/2021,67111,6717
+Gib,5/13/2021,141,4185,Mal ,6/5/2021,1340,2465,UAE,5/8/2021,73848,7391
+Gib,5/14/2021,50,1484,Mal ,6/6/2021,1303,2397,UAE,5/9/2021,73034,7310
+Gib,5/15/2021,66,1959,Mal ,6/7/2021,1274,2344,UAE,5/10/2021,74203,7427
+Gib,5/16/2021,81,2404,Mal ,6/8/2021,1273,2342,UAE,5/11/2021,70597,7066
+Gib,5/17/2021,97,2879,Mal ,6/9/2021,1211,2228,UAE,5/12/2021,76072,7614
+Gib,5/18/2021,113,3354,Mal ,6/10/2021,1152,2119,UAE,5/13/2021,73614,7368
+Gib,5/19/2021,219,6500,Mal ,6/11/2021,1213,2231,UAE,5/14/2021,56733,5678
+Gib,5/20/2021,225,6678,Mal ,6/12/2021,1119,2058,UAE,5/15/2021,45925,4597
+Gib,5/21/2021,215,6382,Mal ,6/13/2021,1042,1917,UAE,5/16/2021,43548,4359
+Gib,5/22/2021,206,6114,Mal ,6/14/2021,971,1786,UAE,5/17/2021,43304,4334
+Gib,5/23/2021,200,5936,Mal ,6/15/2021,942,1733,UAE,5/18/2021,45818,4586
+Gib,5/24/2021,194,5758,Mal ,6/16/2021,923,1698,UAE,5/19/2021,48177,4822
+Gib,5/25/2021,189,5610,Mal ,6/17/2021,894,1645,UAE,5/20/2021,57070,5712
+Gib,5/26/2021,92,2731,Mal ,6/18/2021,878,1615,UAE,5/21/2021,84096,8417
+Gib,5/27/2021,96,2849,Mal ,6/19/2021,862,1586,UAE,5/22/2021,93105,9319
+Gib,5/28/2021,160,4749,Mal ,6/20/2021,848,1560,UAE,5/23/2021,102154,10225
+Gib,5/29/2021,190,5639,Mal ,6/21/2021,854,1571,UAE,5/24/2021,114460,11456
+Gib,5/30/2021,182,5402,Mal ,6/22/2021,813,1496,UAE,5/25/2021,117354,11746
+Gib,5/31/2021,174,5165,Mal ,6/23/2021,803,1477,UAE,5/26/2021,118254,11836
+Gib,6/1/2021,166,4927,Mal ,6/24/2021,841,1547,UAE,5/27/2021,109563,10966
+Gib,6/2/2021,159,4719,Mal ,6/25/2021,797,1466,UAE,5/28/2021,87382,8746
+Gib,6/3/2021,145,4304,Mal ,6/26/2021,875,1610,UAE,5/29/2021,93790,9387
+Gib,6/4/2021,71,2107,Mal ,6/27/2021,947,1742,UAE,5/30/2021,92225,9231
+Gib,6/5/2021,31,920,Mal ,6/28/2021,946,1740,UAE,5/31/2021,82836,8291
+Gib,6/6/2021,25,742,Mal ,6/29/2021,941,1731,UAE,6/1/2021,78881,7895
+Gib,6/7/2021,18,534,Mal ,6/30/2021,893,1643,UAE,6/2/2021,76327,7640
+Gib,6/8/2021,12,356,Mal ,7/1/2021,873,1606,UAE,6/3/2021,91192,9127
+Gib,6/9/2021,8,237,Mal ,7/2/2021,875,1610,UAE,6/4/2021,87807,8789
+Gib,6/10/2021,10,297,Mal ,7/3/2021,806,1483,UAE,6/5/2021,76769,7684
+Gib,6/11/2021,12,356,Mal ,7/4/2021,988,1817,UAE,6/6/2021,72047,7211
+Gib,6/12/2021,14,416,Mal ,7/5/2021,1586,2917,UAE,6/7/2021,68107,6817
+Gib,6/13/2021,15,445,Mal ,7/6/2021,2419,4450,UAE,6/8/2021,65701,6576
+Gib,6/14/2021,16,475,Mal ,7/7/2021,3311,6091,UAE,6/9/2021,63097,6315
+Gib,6/15/2021,18,534,Mal ,7/8/2021,4164,7660,UAE,6/10/2021,51837,5188
+Gib,6/16/2021,17,505,Mal ,7/9/2021,4303,7915,UAE,6/11/2021,60536,6059
+Gib,6/17/2021,17,505,Mal ,7/10/2021,5299,9748,UAE,6/12/2021,70236,7030
+Gib,6/18/2021,16,475,Mal ,7/11/2021,6024,11081,UAE,6/13/2021,70382,7044
+Gib,6/19/2021,15,445,Mal ,7/12/2021,6345,11672,UAE,6/14/2021,71537,7160
+Gib,6/20/2021,15,445,Mal ,7/13/2021,6078,11181,UAE,6/15/2021,76688,7676
+Gib,6/21/2021,15,445,Mal ,7/14/2021,5767,10609,UAE,6/16/2021,80081,8015
+Gib,6/22/2021,17,505,Mal ,7/15/2021,5419,9968,UAE,6/17/2021,84545,8462
+Gib,6/23/2021,18,534,Mal ,7/16/2021,5335,9814,UAE,6/18/2021,87716,8779
+Gib,6/24/2021,20,594,Mal ,7/17/2021,4653,8559,UAE,6/19/2021,91893,9198
+Gib,6/25/2021,19,564,Mal ,7/18/2021,3658,6729,UAE,6/20/2021,100600,10069
+Gib,6/26/2021,18,534,Mal ,7/19/2021,2700,4967,UAE,6/21/2021,111917,11202
+Gib,6/27/2021,17,505,Mal ,7/20/2021,2058,3786,UAE,6/22/2021,102734,10283
+Gib,6/28/2021,16,475,Mal ,7/21/2021,1426,2623,UAE,6/23/2021,95308,9539
+Gib,6/29/2021,13,386,Mal ,7/22/2021,856,1575,UAE,6/24/2021,93191,9327
+Gib,6/30/2021,11,326,Mal ,7/23/2021,799,1470,UAE,6/25/2021,91656,9174
+Gib,7/1/2021,9,267,Mal ,7/24/2021,434,798,UAE,6/26/2021,87759,8784
+Gib,7/2/2021,10,297,Mal ,7/25/2021,388,714,UAE,6/27/2021,80160,8023
+Gib,7/3/2021,10,297,Mal ,7/26/2021,341,627,UAE,6/28/2021,68536,6860
+Gib,7/4/2021,10,297,Mal ,7/27/2021,384,706,UAE,6/29/2021,73584,7365
+Gib,7/5/2021,11,326,Mal ,7/28/2021,484,890,UAE,6/30/2021,89525,8960
+Gib,7/6/2021,11,326,Mal ,7/29/2021,563,1036,UAE,7/1/2021,80137,8021
+Gib,7/7/2021,10,297,Mal ,7/30/2021,664,1221,UAE,7/2/2021,69750,6981
+Gib,7/8/2021,10,297,Mal ,7/31/2021,1230,2263,UAE,7/3/2021,65859,6592
+Gib,7/9/2021,10,297,Mal ,8/1/2021,1776,3267,UAE,7/4/2021,65781,6584
+Gib,7/10/2021,10,297,Mal ,8/2/2021,2425,4461,UAE,7/5/2021,66201,6626
+Gib,7/11/2021,10,297,Mal ,8/3/2021,3022,5559,UAE,7/6/2021,64618,6468
+Gib,7/12/2021,10,297,Mal ,8/4/2021,3324,6115,UAE,7/7/2021,52296,5234
+Gib,7/13/2021,10,297,Mal ,8/5/2021,3475,6392,UAE,7/8/2021,57220,5727
+Gib,7/14/2021,15,445,Mal ,8/6/2021,3626,6670,UAE,7/9/2021,62432,6249
+Gib,7/15/2021,22,653,Mal ,8/7/2021,3411,6275,UAE,7/10/2021,58783,5884
+Gib,7/16/2021,22,653,Mal ,8/8/2021,3209,5903,UAE,7/11/2021,57131,5718
+Gib,7/17/2021,21,623,Mal ,8/9/2021,2915,5362,UAE,7/12/2021,56288,5634
+Gib,7/18/2021,21,623,Mal ,8/10/2021,3844,7071,UAE,7/13/2021,55929,5598
+Gib,7/19/2021,21,623,Mal ,8/11/2021,3712,6828,UAE,7/14/2021,55941,5599
+Gib,7/20/2021,20,594,Mal ,8/12/2021,3804,6998,UAE,7/15/2021,56953,5700
+Gib,7/21/2021,14,416,Mal ,8/13/2021,3586,6597,UAE,7/16/2021,56897,5695
+Gib,7/22/2021,7,208,Mal ,8/14/2021,3444,6335,UAE,7/17/2021,56457,5651
+Gib,7/23/2021,8,237,Mal ,8/15/2021,3918,7207,UAE,7/18/2021,60589,6064
+Gib,7/24/2021,7,208,Mal ,8/16/2021,4325,7956,UAE,7/19/2021,58070,5812
+Gib,7/25/2021,6,178,Mal ,8/17/2021,3167,5826,UAE,7/20/2021,57479,5753
+Gib,7/26/2021,6,178,Mal ,8/18/2021,3327,6120,UAE,7/21/2021,47865,4791
+Gib,7/27/2021,6,178,Mal ,8/19/2021,3682,6773,UAE,7/22/2021,38678,3871
+Gib,7/28/2021,7,208,Mal ,8/20/2021,3730,6861,UAE,7/23/2021,30272,3030
+Gib,7/29/2021,7,208,Mal ,8/21/2021,4041,7434,UAE,7/24/2021,24970,2499
+Gib,7/30/2021,9,267,Mal ,8/22/2021,3908,7189,UAE,7/25/2021,19668,1969
+Gib,7/31/2021,9,267,Mal ,8/23/2021,3715,6834,UAE,7/26/2021,21289,2131
+Gib,8/1/2021,9,267,Mal ,8/24/2021,3703,6812,UAE,7/27/2021,20376,2039
+Gib,8/2/2021,10,297,Mal ,8/25/2021,3407,6267,UAE,7/28/2021,27164,2719
+Gib,8/3/2021,9,267,Mal ,8/26/2021,2919,5370,UAE,7/29/2021,30213,3024
+Gib,8/4/2021,8,237,Mal ,8/27/2021,2832,5210,UAE,7/30/2021,37251,3728
+Gib,8/5/2021,7,208,Mal ,8/28/2021,2425,4461,UAE,7/31/2021,44288,4433
+Gib,8/6/2021,6,178,Mal ,8/29/2021,1797,3306,UAE,8/1/2021,45011,4505
+Gib,8/7/2021,7,208,Mal ,8/30/2021,1301,2393,UAE,8/2/2021,43979,4402
+Gib,8/8/2021,6,178,Mal ,8/31/2021,1021,1878,UAE,8/3/2021,42419,4246
+Gib,8/9/2021,6,178,Mal ,9/1/2021,943,1735,UAE,8/4/2021,41499,4154
+Gib,8/10/2021,5,148,Mal ,9/2/2021,789,1451,UAE,8/5/2021,44539,4458
+Gib,8/11/2021,6,178,Mal ,9/3/2021,850,1564,UAE,8/6/2021,43054,4309
+Gib,8/12/2021,6,178,Mal ,9/4/2021,760,1398,UAE,8/7/2021,43091,4313
+Gib,8/13/2021,5,148,Mal ,9/5/2021,753,1385,UAE,8/8/2021,43144,4318
+Gib,8/14/2021,4,119,Mal ,9/6/2021,898,1652,UAE,8/9/2021,43676,4371
+Gib,8/15/2021,5,148,Mal ,9/7/2021,1135,2088,UAE,8/10/2021,44726,4477
+Gib,8/16/2021,7,208,Mal ,9/8/2021,1448,2664,UAE,8/11/2021,44302,4434
+Gib,8/17/2021,8,237,Mal ,9/9/2021,1960,3605,UAE,8/12/2021,42826,4286
+Gib,8/18/2021,9,267,Mal ,9/10/2021,2041,3754,UAE,8/13/2021,39364,3940
+Gib,8/19/2021,11,326,Mal ,9/11/2021,2619,4818,UAE,8/14/2021,35327,3536
+Gib,8/20/2021,19,564,Mal ,9/12/2021,2941,5410,UAE,8/15/2021,37589,3762
+Gib,8/21/2021,21,623,Mal ,9/13/2021,3022,5559,UAE,8/16/2021,37244,3728
+Gib,8/22/2021,21,623,Mal ,9/14/2021,3010,5537,UAE,8/17/2021,36679,3671
+Gib,8/23/2021,21,623,Mal ,9/15/2021,3018,5552,UAE,8/18/2021,37267,3730
+Gib,8/24/2021,21,623,Mal ,9/16/2021,2658,4889,UAE,8/19/2021,39727,3976
+Gib,8/25/2021,23,683,Mal ,9/17/2021,2521,4637,UAE,8/20/2021,44197,4424
+Gib,8/26/2021,24,712,Mal ,9/18/2021,2073,3813,UAE,8/21/2021,48405,4845
+Gib,8/27/2021,21,623,Mal ,9/19/2021,1746,3212,UAE,8/22/2021,48354,4840
+Gib,8/28/2021,24,712,Mal ,9/20/2021,1492,2745,UAE,8/23/2021,49610,4965
+Gib,8/29/2021,24,712,Mal ,9/21/2021,1285,2364,UAE,8/24/2021,46086,4613
+Gib,8/30/2021,23,683,Mal ,9/22/2021,992,1825,UAE,8/25/2021,48054,4810
+Gib,8/31/2021,23,683,Mal ,9/23/2021,868,1597,UAE,8/26/2021,48950,4899
+Gib,9/1/2021,20,594,Mal ,9/24/2021,842,1549,UAE,8/27/2021,45584,4562
+Gib,9/2/2021,21,623,Mal ,9/25/2021,756,1391,UAE,8/28/2021,41530,4157
+Gib,9/3/2021,21,623,Mal ,9/26/2021,776,1427,UAE,8/29/2021,49461,4951
+Gib,9/4/2021,17,505,Mal ,9/27/2021,796,1464,UAE,8/30/2021,49919,4996
+Gib,9/5/2021,18,534,Mal ,9/28/2021,702,1291,UAE,8/31/2021,54591,5464
+Gib,9/6/2021,19,564,Mal ,9/29/2021,665,1223,UAE,9/1/2021,63729,6379
+Gib,9/7/2021,19,564,Mal ,9/30/2021,722,1328,UAE,9/2/2021,57876,5793
+Gib,9/8/2021,20,594,Mal ,10/1/2021,805,1481,UAE,9/3/2021,56800,5685
+Gib,9/9/2021,21,623,Mal ,10/2/2021,794,1461,UAE,9/4/2021,59279,5933
+Gib,9/10/2021,19,564,Mal ,10/3/2021,790,1453,UAE,9/5/2021,50488,5053
+Gib,9/11/2021,20,594,Mal ,10/4/2021,824,1516,UAE,9/6/2021,49169,4921
+Gib,9/12/2021,21,623,Mal ,10/5/2021,863,1588,UAE,9/7/2021,54746,5479
+Gib,9/13/2021,22,653,Mal ,10/6/2021,928,1707,UAE,9/8/2021,48172,4821
+Gib,9/14/2021,22,653,Mal ,10/7/2021,828,1523,UAE,9/9/2021,56620,5667
+Gib,9/15/2021,23,683,Mal ,10/8/2021,809,1488,UAE,9/10/2021,65989,6605
+Gib,9/16/2021,23,683,Mal ,10/9/2021,834,1534,UAE,9/11/2021,67403,6746
+Gib,9/17/2021,25,742,Mal ,10/10/2021,846,1556,UAE,9/12/2021,75471,7554
+Gib,9/18/2021,27,801,Mal ,10/11/2021,841,1547,UAE,9/13/2021,79801,7987
+Gib,9/19/2021,26,772,Mal ,10/12/2021,879,1617,UAE,9/14/2021,75905,7597
+Gib,9/20/2021,24,712,Mal ,10/13/2021,846,1556,UAE,9/15/2021,76768,7684
+Gib,9/21/2021,23,683,Mal ,10/14/2021,966,1777,UAE,9/16/2021,76661,7673
+Gib,9/22/2021,27,801,Mal ,10/15/2021,919,1691,UAE,9/17/2021,75566,7563
+Gib,9/23/2021,27,801,Mal ,10/16/2021,828,1523,UAE,9/18/2021,78813,7888
+Gib,9/24/2021,29,861,Mal ,10/17/2021,768,1413,UAE,9/19/2021,71904,7197
+Gib,9/25/2021,28,831,Mal ,10/18/2021,709,1304,UAE,9/20/2021,69803,6987
+Gib,9/26/2021,28,831,Mal ,10/19/2021,624,1148,UAE,9/21/2021,67959,6802
+Gib,9/27/2021,28,831,Mal ,10/20/2021,580,1067,UAE,9/22/2021,69944,7001
+Gib,9/28/2021,27,801,Mal ,10/21/2021,481,885,UAE,9/23/2021,66608,6667
+Gib,9/29/2021,24,712,Mal ,10/22/2021,495,911,UAE,9/24/2021,63606,6366
+Gib,9/30/2021,21,623,Mal ,10/23/2021,509,936,UAE,9/25/2021,62082,6214
+Gib,10/1/2021,16,475,Mal ,10/24/2021,510,938,UAE,9/26/2021,59163,5922
+Gib,10/2/2021,13,386,Mal ,10/25/2021,509,936,UAE,9/27/2021,55176,5523
+Gib,10/3/2021,12,356,Mal ,10/26/2021,511,940,UAE,9/28/2021,59157,5921
+Gib,10/4/2021,11,326,Mal ,10/27/2021,542,997,UAE,9/29/2021,52096,5214
+Gib,10/5/2021,10,297,Mal ,10/28/2021,547,1006,UAE,9/30/2021,48425,4847
+Gib,10/6/2021,15,445,Mal ,10/29/2021,521,958,UAE,10/1/2021,49448,4949
+Gib,10/7/2021,28,831,Mal ,10/30/2021,495,911,UAE,10/2/2021,44540,4458
+Gib,10/8/2021,46,1365,Mal ,10/31/2021,498,916,UAE,10/3/2021,48076,4812
+Gib,10/9/2021,48,1425,Mal ,11/1/2021,484,890,UAE,10/4/2021,50810,5086
+Gib,10/10/2021,48,1425,Mal ,11/2/2021,490,901,UAE,10/5/2021,44272,4431
+Gib,10/11/2021,47,1395,Mal ,11/3/2021,407,749,UAE,10/6/2021,43198,4324
+Gib,10/12/2021,142,4215,Mal ,11/4/2021,324,596,UAE,10/7/2021,44620,4466
+Gib,10/13/2021,204,6055,Mal ,11/5/2021,327,602,UAE,10/8/2021,41092,4113
+Gib,10/14/2021,249,7391,Mal ,11/6/2021,331,609,UAE,10/9/2021,42126,4216
+Gib,10/15/2021,294,8726,Mal ,11/7/2021,296,544,UAE,10/10/2021,40380,4042
+Gib,10/16/2021,368,10923,Mal ,11/8/2021,259,476,UAE,10/11/2021,39326,3936
+Gib,10/17/2021,445,13208,Mal ,11/9/2021,235,432,UAE,10/12/2021,36433,3647
+Gib,10/18/2021,504,14959,Mal ,11/10/2021,280,515,UAE,10/13/2021,33203,3323
+Gib,10/19/2021,462,13713,Mal ,11/11/2021,269,495,UAE,10/14/2021,31898,3193
+Gib,10/20/2021,485,14396,Mal ,11/12/2021,258,475,UAE,10/15/2021,30087,3011
+Gib,10/21/2021,507,15049,Mal ,11/13/2021,248,456,UAE,10/16/2021,29587,2961
+Gib,10/22/2021,516,15316,Mal ,11/14/2021,233,429,UAE,10/17/2021,28201,2823
+Gib,10/23/2021,495,14692,Mal ,11/15/2021,242,445,UAE,10/18/2021,28009,2803
+Gib,10/24/2021,523,15523,Mal ,11/16/2021,984,1810,UAE,10/19/2021,30366,3039
+Gib,10/25/2021,559,16592,Mal ,11/17/2021,987,1816,UAE,10/20/2021,31917,3195
+Gib,10/26/2021,548,16265,Mal ,11/18/2021,1079,1985,UAE,10/21/2021,30122,3015
+Gib,10/27/2021,507,15049,Mal ,11/19/2021,1118,2057,UAE,10/22/2021,30082,3011
+Gib,10/28/2021,477,14158,Mal ,11/20/2021,1157,2128,UAE,10/23/2021,28676,2870
+Gib,10/29/2021,454,13475,Mal ,11/21/2021,1197,2202,UAE,10/24/2021,28370,2840
+Gib,10/30/2021,443,13149,Mal ,11/22/2021,1272,2340,UAE,10/25/2021,27988,2801
+Gib,10/31/2021,386,11457,Mal ,11/23/2021,598,1100,UAE,10/26/2021,28482,2851
+Gib,11/1/2021,337,10003,Mal ,11/24/2021,640,1177,UAE,10/27/2021,28229,2825
+Gib,11/2/2021,342,10151,Mal ,11/25/2021,649,1194,UAE,10/28/2021,30781,3081
+Gib,11/3/2021,338,10032,Mal ,11/26/2021,643,1183,UAE,10/29/2021,31567,3160
+Gib,11/4/2021,332,9854,Mal ,11/27/2021,637,1172,UAE,10/30/2021,30500,3053
+Gib,11/5/2021,328,9736,Mal ,11/28/2021,737,1356,UAE,10/31/2021,35658,3569
+Gib,11/6/2021,329,9765,Mal ,11/29/2021,799,1470,UAE,11/1/2021,35963,3600
+Gib,11/7/2021,311,9231,Mal ,11/30/2021,842,1549,UAE,11/2/2021,33392,3342
+Gib,11/8/2021,293,8697,Mal ,12/1/2021,844,1553,UAE,11/3/2021,35029,3506
+Gib,11/9/2021,276,8192,Mal ,12/2/2021,949,1746,UAE,11/4/2021,33473,3350
+Gib,11/10/2021,267,7925,Mal ,12/3/2021,1000,1840,UAE,11/5/2021,31965,3199
+Gib,11/11/2021,220,6530,Mal ,12/4/2021,1050,1931,UAE,11/6/2021,31833,3186
+Gib,11/12/2021,243,7213,Mal ,12/5/2021,988,1817,UAE,11/7/2021,28810,2884
+Gib,11/13/2021,236,7005,Mal ,12/6/2021,930,1711,UAE,11/8/2021,28674,2870
+Gib,11/14/2021,349,10359,Mal ,12/7/2021,894,1645,UAE,11/9/2021,29036,2906
+Gib,11/15/2021,320,9498,Mal ,12/8/2021,926,1703,UAE,11/10/2021,26448,2647
+Gib,11/16/2021,354,10507,Mal ,12/9/2021,855,1573,UAE,11/11/2021,26547,2657
+Gib,11/17/2021,383,11368,Mal ,12/10/2021,801,1473,UAE,11/12/2021,28896,2892
+Gib,11/18/2021,450,13357,Mal ,12/11/2021,748,1376,UAE,11/13/2021,28997,2902
+Gib,11/19/2021,426,12644,Mal ,12/12/2021,773,1422,UAE,11/14/2021,28328,2835
+Gib,11/20/2021,429,12733,Mal ,12/13/2021,757,1393,UAE,11/15/2021,28618,2864
+Gib,11/21/2021,286,8489,Mal ,12/14/2021,708,1302,UAE,11/16/2021,28475,2850
+Gib,11/22/2021,312,9261,Mal ,12/15/2021,656,1207,UAE,11/17/2021,27274,2730
+Gib,11/23/2021,275,8162,Mal ,12/16/2021,599,1102,UAE,11/18/2021,26638,2666
+Gib,11/24/2021,265,7866,Mal ,12/17/2021,571,1050,UAE,11/19/2021,23207,2323
+Gib,11/25/2021,255,7569,Mal ,12/18/2021,543,999,UAE,11/20/2021,23662,2368
+Gib,11/26/2021,265,7866,Mal ,12/19/2021,476,876,UAE,11/21/2021,22186,2221
+Gib,11/27/2021,226,6708,Mal ,12/20/2021,437,804,UAE,11/22/2021,21132,2115
+Gib,11/28/2021,246,7302,Mal ,12/21/2021,438,806,UAE,11/23/2021,22352,2237
+Gib,11/29/2021,241,7153,Mal ,12/22/2021,433,797,UAE,11/24/2021,21191,2121
+Gib,11/30/2021,235,6975,Mal ,12/23/2021,370,681,UAE,11/25/2021,19444,1946
+Gib,12/1/2021,233,6916,Mal ,12/24/2021,383,705,UAE,11/26/2021,19572,1959
+Gib,12/2/2021,262,7777,Mal ,12/25/2021,396,728,UAE,11/27/2021,17991,1801
+Gib,12/3/2021,308,9142,Mal ,12/26/2021,376,692,UAE,11/28/2021,18534,1855
+Gib,12/4/2021,399,11843,Mal ,12/27/2021,469,863,UAE,11/29/2021,17556,1757
+Gib,12/5/2021,420,12466,Mal ,12/28/2021,476,876,UAE,11/30/2021,16130,1614
+Gib,12/6/2021,440,13060,Mal ,12/29/2021,452,831,UAE,12/1/2021,18173,1819
+Gib,12/7/2021,460,13653,Mal ,12/30/2021,449,826,UAE,12/2/2021,18427,1844
+Gib,12/8/2021,534,15850,Mal ,12/31/2021,445,819,UAE,12/3/2021,17812,1783
+Gib,12/9/2021,533,15820,Mal ,1/1/2022,442,813,UAE,12/4/2021,17744,1776
+Gib,12/10/2021,515,15286,Mal ,1/2/2022,438,806,UAE,12/5/2021,17483,1750
+Gib,12/11/2021,489,14514,Mal ,1/3/2022,329,605,UAE,12/6/2021,18321,1834
+Gib,12/12/2021,488,14485,Mal ,1/4/2022,277,510,UAE,12/7/2021,20167,2018
+Gib,12/13/2021,487,14455,Mal ,1/5/2022,254,467,UAE,12/8/2021,21608,2163
+Gib,12/14/2021,486,14425,Mal ,1/6/2022,278,511,UAE,12/9/2021,24122,2414
+Gib,12/15/2021,479,14217,Mal ,1/7/2022,270,497,UAE,12/10/2021,26671,2669
+Gib,12/16/2021,495,14692,Mal ,1/8/2022,262,482,UAE,12/11/2021,29725,2975
+Gib,12/17/2021,484,14366,Mal ,1/9/2022,291,535,UAE,12/12/2021,30670,3070
+Gib,12/18/2021,494,14663,Mal ,1/10/2022,313,576,UAE,12/13/2021,31309,3134
+Gib,12/19/2021,485,14396,Mal ,1/11/2022,362,666,UAE,12/14/2021,27743,2777
+Gib,12/20/2021,476,14128,Mal ,1/12/2022,415,763,UAE,12/15/2021,25874,2590
+Gib,12/21/2021,468,13891,Mal ,1/13/2022,535,984,UAE,12/16/2021,24270,2429
+Gib,12/22/2021,377,11190,Mal ,1/14/2022,687,1264,UAE,12/17/2021,22631,2265
+Gib,12/23/2021,300,8904,Mal ,1/15/2022,839,1543,UAE,12/18/2021,20487,2051
+Gib,12/24/2021,228,6767,Mal ,1/16/2022,1162,2138,UAE,12/19/2021,20451,2047
+Gib,12/25/2021,155,4601,Mal ,1/17/2022,1484,2730,UAE,12/20/2021,20722,2074
+Gib,12/26/2021,126,3740,Mal ,1/18/2022,1803,3317,UAE,12/21/2021,21753,2177
+Gib,12/27/2021,97,2879,Mal ,1/19/2022,2121,3902,UAE,12/22/2021,21753,2177
+Gib,12/28/2021,68,2018,Mal ,1/20/2022,2234,4109,UAE,12/23/2021,21753,2177
+Gib,12/29/2021,39,1158,Mal ,1/21/2022,2347,4317,UAE,12/24/2021,22862,2288
+Gib,12/30/2021,17,505,Mal ,1/22/2022,2460,4525,UAE,12/25/2021,23618,2364
+Gib,12/31/2021,17,505,Mal ,1/23/2022,2576,4739,UAE,12/26/2021,24373,2439
+Gib,1/1/2022,17,505,Mal ,1/24/2022,2650,4875,UAE,12/27/2021,25129,2515
+Gib,1/2/2022,17,505,Mal ,1/25/2022,2725,5013,UAE,12/28/2021,25885,2591
+Gib,1/3/2022,17,505,Mal ,1/26/2022,2825,5197,UAE,12/29/2021,26640,2666
+Gib,1/4/2022,17,505,Mal ,1/27/2022,2924,5379,UAE,12/30/2021,27396,2742
+Gib,1/5/2022,17,505,Mal ,1/28/2022,3023,5561,UAE,12/31/2021,27043,2707
+Gib,1/6/2022,17,505,Mal ,1/29/2022,3122,5743,UAE,1/1/2022,27043,2707
+Gib,1/7/2022,17,505,Mal ,1/30/2022,3016,5548,UAE,1/2/2022,27043,2707
+Gib,1/8/2022,27,801,Mal ,1/31/2022,3000,5519,UAE,1/3/2022,27043,2707
+Gib,1/9/2022,36,1069,Mal ,2/1/2022,2885,5307,UAE,1/4/2022,25868,2589
+Gib,1/10/2022,46,1365,Mal ,2/2/2022,2918,5368,UAE,1/5/2022,26274,2630
+Gib,1/11/2022,55,1632,Mal ,2/3/2022,2802,5154,UAE,1/6/2022,27662,2769
+Gib,1/12/2022,81,2404,Mal ,2/4/2022,2687,4943,UAE,1/7/2022,28709,2873
+Gib,1/13/2022,102,3028,Mal ,2/5/2022,2571,4729,UAE,1/8/2022,29997,3002
+Gib,1/14/2022,124,3681,Mal ,2/6/2022,2727,5016,UAE,1/9/2022,29297,2932
+Gib,1/15/2022,135,4007,Mal ,2/7/2022,2818,5184,UAE,1/10/2022,28598,2862
+Gib,1/16/2022,134,3977,Mal ,2/8/2022,2877,5292,UAE,1/11/2022,28564,2859
+Gib,1/17/2022,132,3918,Mal ,2/9/2022,2777,5108,UAE,1/12/2022,29088,2911
+Gib,1/18/2022,131,3888,Mal ,2/10/2022,2959,5443,UAE,1/13/2022,29969,3000
+Gib,1/19/2022,126,3740,Mal ,2/11/2022,2880,5298,UAE,1/14/2022,26977,2700
+Gib,1/20/2022,127,3770,Mal ,2/12/2022,2801,5152,UAE,1/15/2022,26473,2650
+Gib,1/21/2022,107,3176,Mal ,2/13/2022,2541,4674,UAE,1/16/2022,27956,2798
+Gib,1/22/2022,118,3502,Mal ,2/14/2022,2288,4209,UAE,1/17/2022,29438,2946
+Gib,1/23/2022,119,3532,Mal ,2/15/2022,2140,3937,UAE,1/18/2022,29367,2939
+Gib,1/24/2022,121,3591,Mal ,2/16/2022,1992,3664,UAE,1/19/2022,26734,2676
+Gib,1/25/2022,122,3621,Mal ,2/17/2022,1842,3388,UAE,1/20/2022,29224,2925
+Gib,1/26/2022,110,3265,Mal ,2/18/2022,1782,3278,UAE,1/21/2022,32934,3296
+Gib,1/27/2022,98,2909,Mal ,2/19/2022,1721,3166,UAE,1/22/2022,33915,3395
+Gib,1/28/2022,114,3384,Mal ,2/20/2022,1688,3105,UAE,1/23/2022,33951,3398
+Gib,1/29/2022,95,2820,Mal ,2/21/2022,1654,3043,UAE,1/24/2022,33046,3308
+Gib,1/30/2022,89,2642,Mal ,2/22/2022,1592,2929,UAE,1/25/2022,34282,3431
+Gib,1/31/2022,83,2464,Mal ,2/23/2022,1486,2734,UAE,1/26/2022,37737,3777
+Gib,2/1/2022,77,2285,Mal ,2/24/2022,1461,2688,UAE,1/27/2022,34823,3485
+Gib,2/2/2022,80,2375,Mal ,2/25/2022,1507,2772,UAE,1/28/2022,33739,3377
+Gib,2/3/2022,81,2404,Mal ,2/26/2022,1554,2859,UAE,1/29/2022,33281,3331
+Gib,2/4/2022,72,2137,Mal ,2/27/2022,1561,2871,UAE,1/30/2022,30587,3061
+Gib,2/5/2022,68,2018,Mal ,2/28/2022,1614,2969,UAE,1/31/2022,30729,3076
+Gib,2/6/2022,75,2226,Mal ,3/1/2022,1583,2912,UAE,2/1/2022,30792,3082
+Gib,2/7/2022,82,2434,Mal ,3/2/2022,1589,2923,UAE,2/2/2022,29060,2909
+Gib,2/8/2022,88,2612,Mal ,3/3/2022,1461,2688,UAE,2/3/2022,27422,2745
+Gib,2/9/2022,87,2582,Mal ,3/4/2022,1340,2465,UAE,2/4/2022,27479,2750
+Gib,2/10/2022,88,2612,Mal ,3/5/2022,1219,2242,UAE,2/5/2022,26411,2643
+Gib,2/11/2022,92,2731,Mal ,2/2/2021,,,UAE,2/6/2022,27597,2762
+Gib,2/12/2022,83,2464,Mal ,2/3/2021,698,1284,UAE,2/7/2022,25815,2584
+Gib,2/13/2022,74,2196,Mal ,2/4/2021,1162,2138,UAE,2/8/2022,24840,2486
+Gib,2/14/2022,65,1929,Mal ,2/5/2021,1130,2079,UAE,2/9/2022,24499,2452
+Gib,2/15/2022,57,1692,Mal ,2/6/2021,1494,2748,UAE,2/10/2022,24079,2410
+Gib,2/16/2022,74,2196,Mal ,2/7/2021,1774,3263,UAE,2/11/2022,23183,2320
+Gib,2/17/2022,66,1959,Mal ,2/8/2021,2009,3696,UAE,2/12/2022,20264,2028
+Gib,2/18/2022,61,1811,Mal ,2/9/2021,2196,4040,UAE,2/13/2022,22019,2204
+Gib,2/19/2022,65,1929,Mal ,2/10/2021,2655,4884,UAE,2/14/2022,20769,2079
+Gib,2/20/2022,69,2048,Mal ,2/11/2021,3160,5813,UAE,2/15/2022,21564,2158
+Gib,2/21/2022,73,2167,Mal ,2/12/2021,3300,6070,UAE,2/16/2022,22330,2235
+Gib,2/22/2022,76,2256,Mal ,2/13/2021,3750,6898,UAE,2/17/2022,21377,2140
+Gib,2/23/2022,53,1573,Mal ,2/14/2021,4120,7579,UAE,2/18/2022,20752,2077
+Gib,2/24/2022,61,1811,Mal ,2/15/2021,4412,8116,UAE,2/19/2022,22649,2267
+Gib,2/25/2022,58,1722,Mal ,2/16/2021,4828,8881,UAE,2/20/2022,20337,2036
+Gib,2/26/2022,53,1573,Mal ,2/17/2021,5151,9475,UAE,2/21/2022,21201,2122
+Gib,2/27/2022,49,1454,Mal ,2/18/2021,5532,10176,UAE,2/22/2022,19931,1995
+Gib,2/28/2022,51,1514,Mal ,2/19/2021,5240,9639,UAE,2/23/2022,18411,1843
+Gib,3/1/2022,53,1573,Mal ,2/20/2021,5272,9698,UAE,2/24/2022,18766,1878
+Gib,3/2/2022,51,1514,Mal ,2/21/2021,5203,9571,UAE,2/25/2022,18239,1826
+Gib,3/3/2022,43,1276,Mal ,2/22/2021,5192,9551,UAE,2/26/2022,16656,1667
+Gib,3/4/2022,40,1187,Mal ,2/23/2021,5009,9214,UAE,2/27/2022,16150,1616
+,,,,,,,,UAE,2/28/2022,16412,1643
+,,,,,,,,UAE,3/1/2022,17674,1769
+,,,,,,,,UAE,3/2/2022,17554,1757
+,,,,,,,,UAE,3/3/2022,15687,1570
+,,,,,,,,UAE,3/4/2022,14316,1433
+,,,,,,,,UAE,3/5/2022,15749,1576
+,,,,,,,,UAE,3/6/2022,16683,1670
+,,,,,,,,UAE,3/7/2022,16153,1617
+,,,,,,,,UAE,3/8/2022,13905,1392
